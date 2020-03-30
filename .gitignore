@@ -1,0 +1,4 @@
+# compiled python scipts #
+*.pyc
+
+# real config and credentials #
