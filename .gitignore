@@ -1,4 +1,23 @@
-# compiled python scipts #
+# compiled python scipts and backups#
+##########################
 *.pyc
+*.pyo
+*~
 
 # real config and credentials #
+###############################
+config.py
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
