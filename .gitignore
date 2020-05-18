@@ -1,14 +1,35 @@
-# compiled python scipts #
-*.pyc
+# compiled python scipts and backups#
+##########################
 # generic ignore
 node_modules/
 npm-debug.log
 *.pyc
 *.json
+*.sh
+*.pyo
+*~
 
 # specific ignore
 .spyproject/
 
 # never commit real settings
 settings.py
+
+# real config and credentials #
+###############################
+config.py
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
 
