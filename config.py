@@ -1,8 +1,13 @@
-config = {'local' : "mysql+pymysql://rik:X0chi@localhost/raa",
-          'remote': "mysql+pymysql://rik:X0chi@remotehost/raa"}
+config = dict(local="mysql+pymysql://rik:X0chi@localhost/raa_new",
+              remote="mysql+pymysql://rik:X0chi@remotehost/raa_new")  # change this when we know the remote host
 
-def get_config(host="local"):
+# how to update for user? Cookies?
+default_preferences = {'perpage':20, }
+
+def get_config(host="local",config=config):
     config = config['local']
     if host == "remote":
         config = config['remote']
     return config
+
+

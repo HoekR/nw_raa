@@ -6,8 +6,13 @@ name = "pypi"
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
-flask-restplus = "*"
+flask-restx = "*"
+flask-cors = "*"
+sqlalchemy-json-querybuilder = "*"
+pymysql = '*'
 mysql-connector-python = "*"
+sqlacodegen = "*"
+sqlalchemy-utils = "*"
 
 [dev-packages]
 

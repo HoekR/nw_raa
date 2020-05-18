@@ -1,20 +1,22 @@
-from ..app import Base
+from ..get_db import db, Base
 
-academischetitel = Base.classes.academischetitel
-adellijketitel = Base.classes.adellijketitel
-aliassen = Base.classes.aliassen
-bovenlokaalcollegeregentdetails = Base.classes.bovenlokaalcollegeregentdetails
-bron = Base.classes.bron
-bronfunctiedetails = Base.classes.bronfunctiedetails
-bronregentdetails = Base.classes.bronregentdetails
-college = Base.classes.college
-data = Base.classes.data
+
+aanstelling = Base.classes.aanstelling
+persoon = Base.classes.persoon
+adellijke_titel = Base.classes.adellijke_titel
+academische_titel = Base.classes.academische_titel
 functie = Base.classes.functie
-functiebovenlokaal = Base.classes.functiebovenlokaal
-functielokaal = Base.classes.functielokaal
-gewest = Base.classes.gewest
+instelling = Base.classes.instelling
+adels_predikaat = Base.classes.adels_predikaat
+alias = Base.classes.alias
+bron = Base.classes.bron
+bron_details = Base.classes.bron_details
+bron_regent = Base.classes.bron_regent
+college = Base.classes.college
+instelling_copy = Base.classes.instelling_copy
 lokaal = Base.classes.lokaal
-provinciaal = Base.classes.provinciaal
+periode = Base.classes.periode
+provincie = Base.classes.provincie
 regent = Base.classes.regent
-regionaal = Base.classes.regionaal
+regio = Base.classes.regio
 stand = Base.classes.stand

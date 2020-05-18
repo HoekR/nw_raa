@@ -1,170 +1,88 @@
-def make_fullname(self):
-    voorvoegsels = [getattr(self.record.academischetitel, "AcademischeTitel", ""),
-                    self.record.Voornaam,
-                    getattr(self.record.adellijketitel, "AdellijkeTitel", ""),
-                    self.record.Tussenvoegsel]
-    voorvoegsel = ' '.join([v for v in voorvoegsels if v]).strip()
-    achtervoegsels = [self.record.Heerlijkheid, self.record.Heerlijkheid2]
-    achtervoegsel = ' '.join([a for a in achtervoegsels if a]).strip()
-    if achtervoegsel:
-        achtervoegsel = ", Heer van " + achtervoegsel
-    fullname_parts = {"prepos":voorvoegsel,
-                      "name": f"{self.record.Geslachtsnaam}",
-                      "postpos": achtervoegsel}
-    return fullname_parts
+from flask import Blueprint
+from flask_restx import Api, Model, fields
+
+# blueprint = Blueprint('api', __name__)
+# api = Api(blueprint)
+
+"""--------------- API request and response models ------------------"""
+
+#generic response model
+response_model = Model("Response", {
+    "status": fields.String(description="Status", required=True, enum=["success", "error"]),
+    "message": fields.String(description="Message from server", required=True),
+})
+
+# user created response model
+user_response = Model("Response", {
+    "action": fields.String(description="Update action", require=True, enum=["created", "verified", "updated", "deleted"]),
+    "user": {
+        "username": fields.String(description="Username", required=True)
+    }
+})
 
 
-def make_aanstellingen(self):
-    """this prepares the aanstellingen that are retrieved only at calling time.
-    Aanstellingen are sorted by start date"""
-    for aanstelling in self.record.bovenlokaalcollegeregentdetails_collection:
-        college = getattr(aanstelling.college, "College", "")
-        college_ref = getattr(aanstelling.college, "IDCollege", 0) # so that we can refer to the institution
-        aanstelling_ref = getattr(aanstelling, "ID")
-        functie = {'college': college,
-                   'college_ref': college_ref,
-                   'aanstelling_ref': aanstelling_ref,
-                   'functie': getattr(aanstelling.functie, 'Functie', ''),
-                   'functie_ref': getattr(aanstelling, "IDFunctie", ''),
-                   'startdate':  '{bjaar}-{bmaand}-{bdag}'.format(bjaar=aanstelling.Beginjaar, # should we get a min_date?
-                                                             bmaand=aanstelling.Beginmaand,
-                                                             bdag=aanstelling.Begindag),
-                   'starty':aanstelling.Beginjaar,
-                   'startm':aanstelling.Beginmaand,
-                   'startd':aanstelling.Begindag,
-                   'enddate':  '{ejaar}-{emaand}-{edag}'.format(ejaar=aanstelling.Eindjaar,
-                                                             emaand=aanstelling.Eindmaand,
-                                                             edag=aanstelling.Einddag),
-                   'endy':aanstelling.Eindjaar,
-                   'endm':aanstelling.Eindmaand,
-                   'endd':aanstelling.Einddag
-                    }
-        self.aanstellingen.append(functie)
-    sorted(self.aanstellingen, key=lambda x: (x.get("starty"), x.get("startm"), x.get("startd")))
+#this should be person name
+person_model = Model("Persoon", {
+        "id": fields.String(description="IDRegent"),
+        "fullname": fields.String(description="fullname"),
+        "normalized_fullname": fields.String(description="normalized_fullname"),
+        "aanstellingen": fields.List((fields.String)),
+        "references": fields.List((fields.String)),
+        #"by": fields.String(description="birth year"),
+        #"dy": fields.String(description="death year"),
+        #"bio": fields.String(description="biography notes"),
+        #"birth":fields.String(description="birth day (full)"),
+        #"death":fields.String(description="death day (full)"),
+        #"reference":fields.String(description="reference to other name")
+        })
 
+person_response = response_model.clone("Persoon",
+                            {"personname": fields.Nested(person_model)
+                            })
 
-class Persoon(object):
-    def __init__(self, record):
-        self.record = record
-        self.aanstellingen = []
-        self.references = []
-        self.fullname = self.get_fullname()
-        self.normalized_fullname = self.get_fullname_normalized()
+aanstelling_model = Model("Aanstelling", {
+        'regent':  fields.String(description="regent"),
+        'regent_ref':  fields.String(description="regent_ref"),
+        'college':  fields.String(description="college"),
+        'college_ref':  fields.String(description="college_ref"),
+        'functie':  fields.String(description="functie"),
+        'functie_ref':  fields.String(description="functie_ref"),
+        'aanstelling_ref': fields.String(description="aanstelling_ref"),
+        'startdate':  fields.String(description="startdate"),
+        'start_text':fields.String(description="starty"),
+        'enddate':  fields.String(description="enddate"),
+        'end_text':fields.String(description="endy")
+        })
 
+aanstelling_response = response_model.clone("Aanstelling",
+                            {"aanstelling": fields.Nested(aanstelling_model)
+                            })
 
-    def make_fullname(self):
-        return make_fullname(self)
+college_model = Model("College", {
+        "college": fields.String(description="college"),
+        "college_ref":  fields.String(description="college_ref"),
+        "period": fields.String(description="period"),
+        })
 
-    def get_fullname_normalized(self):
-        parts = self.make_fullname()
-        fullname_normalized = ''.join((parts['name'], parts['postpos'] , ", ", parts['prepos']))
-        return fullname_normalized
+college_response = response_model.clone("College",
+                            {"college": fields.Nested(college_model)
+                            })
 
-    def get_fullname(self):
-        parts = self.make_fullname()
-        fullname = ''.join((parts['prepos'], ' ', parts['name'], parts['postpos'])).strip()
-        return fullname
+function_model = Model("Function", {
+        "function": fields.String(description="functie"),
+        "functie_ref":  fields.String(description="functie_ref"),
+        "period": fields.String(description="period"),
+        })
 
-    def get_references(self):
-        if not self.references:
-            for reference in self.record.bronregentdetails_collection:
-                bron = reference.bron.Bron
-                d_en_p = getattr(reference.bron, "deel en paginanummer", '')
-                if d_en_p:
-                    rf = f"{bron}, {d_en_p}"
-                else:
-                    rf = f"{bron}"
-                self.references.append(rf)
-        return self.references
+function_response = response_model.clone("Function",
+                            {"function": fields.Nested(college_model)
+                            })
 
-    def get_aanstellingen(self):
-        if not self.aanstellingen:
-            make_aanstellingen(self)
-        return self.aanstellingen
+period_model = Model("Period", {
+        "period": fields.String(description="period"),
+        "period_ref":  fields.String(description="period_ref"),
+        })
 
-    def repr(self):
-        result = {k:getattr(self.record, k) for k in self.record.__table__.columns.keys()}
-        result['fullname'] = self.get_fullname()
-        result['normalized_fullname'] = self.get_fullname_normalized()
-        result['references'] = self.get_references()
-        result['aanstellingen'] = self.get_aanstellingen()
-        return result
-
-    def __getattr__(self, fieldname):
-        """this mirrors the record object"""
-        if fieldname in self.record.keys():
-            return getattr(self.record, fieldname, '')
-        elif fieldname in ['fullname', 'normalized_fullname']:
-            return getattr(self, fieldname, '')
-        elif fieldname == 'references':
-            return self.get_references()
-        elif fieldname == 'aanstellingen':
-            return self.get_aanstellingen()
-        else:
-            raise AttributeError
-
-    def __repr__(self):
-        nm = self.get_fullname()
-        nm = nm + f"({self.Geboortejaar or '?'}, {self.Overlijdensjaar or '?'})"
-        return nm
-
-
-class Aanstelling(object):
-
-    def __init__(self, record):
-        self.record = record
-
-    def get_aanstelling(self):
-        aanstelling = self.record
-        #for aanstelling in self.record:
-        college = getattr(aanstelling.college, "College", "")
-        college_ref = getattr(aanstelling.college, "IDCollege", 0) # so that we can refer to the institution
-        regent = Persoon(aanstelling.regent).get_fullname()
-        regent_ref = getattr(aanstelling, "IDRegent")
-        functie_ref = getattr(aanstelling, "IDFunctie")
-        functie = getattr(aanstelling.functie, "Functie", "")
-
-        functie = {'regent': regent,
-                   'regent_ref': regent_ref,
-                   'college': college,
-                   'college_ref': college_ref,
-                   'functie': functie,
-                   'functie_ref': functie_ref,
-                   'aanstelling_ref': getattr(aanstelling, "ID"),
-                   'startdate':  '{bjaar}-{bmaand}-{bdag}'.format(bjaar=aanstelling.Beginjaar, # should we get a min_date?
-                                                             bmaand=aanstelling.Beginmaand,
-                                                             bdag=aanstelling.Begindag),
-                   'starty':aanstelling.Beginjaar,
-                   'startm':aanstelling.Beginmaand,
-                   'startd':aanstelling.Begindag,
-                   'enddate':  '{ejaar}-{emaand}-{edag}'.format(ejaar=aanstelling.Eindjaar,
-                                                             emaand=aanstelling.Eindmaand,
-                                                             edag=aanstelling.Einddag),
-                   'endy':aanstelling.Eindjaar,
-                   'endm':aanstelling.Eindmaand,
-                   'endd':aanstelling.Einddag
-                    }
-        #self.aanstellingen.append(functie)
-        #sorted(self.aanstellingen, key=lambda x: (x.get("starty"), x.get("startm"), x.get("startd")))
-        return functie
-
-
-
-class College(object):
-
-    def __init__(self, record):
-        self.record = record
-        self.aanstellingen = []
-
-    def get_aanstellingen(self):
-        if not self.aanstellingen:
-            make_aanstellingen(self)
-        return self.aanstellingen
-
-    def repr(self):
-        result = {
-            "college": getattr(self.record, 'College', ''),
-            "college_ref": getattr(self.record, "IDCollege"),
-            "aanstellingen": self.get_aanstellingen()
-            }
-        return result
+period_response = response_model.clone("Period",
+                            {"period": fields.Nested(college_model)
+                            })

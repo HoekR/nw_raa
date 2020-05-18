@@ -1,4 +1,14 @@
 # compiled python scipts #
 *.pyc
+# generic ignore
+node_modules/
+npm-debug.log
+*.pyc
+*.json
 
-# real config and credentials #
+# specific ignore
+.spyproject/
+
+# never commit real settings
+settings.py
+

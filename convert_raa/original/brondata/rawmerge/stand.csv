@@ -1,0 +1,7 @@
+	idstand	stand	volgnummer	old_idstand
+0	1	ridderschap		negentiende_eeuw_1
+1	2	landelijke stand		negentiende_eeuw_2
+2	3	stedelijke stand		negentiende_eeuw_3
+0	2	adel	0	me_2
+1	3	steden	0	me_3
+2	4	platteland	0	me_4

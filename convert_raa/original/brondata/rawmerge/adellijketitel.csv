@@ -1,0 +1,37 @@
+	idadellijketitel	adellijketitel	old_idadellijketitel
+0	1		batfra_1
+1	3	baron	batfra_3
+2	4	graaf	batfra_4
+3	5	ridder	batfra_5
+4	9	comte (Empire)	batfra_9
+5	10	baron (Empire)	batfra_10
+6	11	duc (Empire)	batfra_11
+7	12	prince (Empire)	batfra_12
+0	3		negentiende_eeuw_3
+1	4	prins	negentiende_eeuw_4
+2	5	hertog	negentiende_eeuw_5
+3	6	markies	negentiende_eeuw_6
+4	7	graaf	negentiende_eeuw_7
+5	8	burggraaf	negentiende_eeuw_8
+6	9	baron	negentiende_eeuw_9
+7	10	ridder	negentiende_eeuw_10
+8	11	comte (Empire)	negentiende_eeuw_11
+0	1		me_1
+1	2	baron	me_2
+2	3	graaf	me_3
+3	4	hertog	me_4
+4	5	markies	me_5
+5	6	ridder	me_6
+6	7	burggraaf	me_7
+7	8	knaap	me_8
+8	9	markgraaf	me_9
+9	10	prins	me_10
+0	1		divperioden_1
+1	3	baron	divperioden_3
+2	4	graaf	divperioden_4
+3	5	ridder	divperioden_5
+0	1		republiek_1
+1	3	baron	republiek_3
+2	4	graaf	republiek_4
+3	5	ridder	republiek_5
+4	9	comte (Empire)	republiek_9

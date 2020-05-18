@@ -1,0 +1,537 @@
+	idfunctie	periode	functie	volgnummer	lokaal	id	old_idfunctie	old_id
+0	1	2	minister secretaris van staat	0	0	0	batfra_1	batfra_0
+1	5	2	koning van Holland	0	0	0	batfra_5	batfra_0
+2	6	2	kanselier van de koning	0	0	0	batfra_6	batfra_0
+3	7	2	minister vice-president	0	0	0	batfra_7	batfra_0
+4	8	2	raad-secretaris	0	0	0	batfra_8	batfra_0
+5	9	2	minister	0	0	0	batfra_9	batfra_0
+6	10	2	inspecteur voor het geneeskundige	0	0	0	batfra_10	batfra_0
+7	11	2	inspecteur voor het lagere schoolwezen	0	0	0	batfra_11	batfra_0
+8	12	2	inspecteur voor maten en gewichten, tevens adviseur wis-, natuur-, schei- en werktuigkunde	0	0	0	batfra_12	batfra_0
+9	27	2	secretaris sectie Staatsraad	0	0	0	batfra_27	batfra_0
+10	28	2	directeur-generaal	0	0	0	batfra_28	batfra_0
+11	30	2	requestmeester-generaal	0	0	0	batfra_30	batfra_0
+12	31	2	controleur-generaal van de publieke inkomsten en uitgaven	0	0	0	batfra_31	batfra_0
+13	32	2	eerste secretaris	0	0	0	batfra_32	batfra_0
+14	33	2	tweede secretaris	0	0	0	batfra_33	batfra_0
+15	34	2	directeur	0	0	0	batfra_34	batfra_0
+16	35	2	commies-indexmaker	0	0	0	batfra_35	batfra_0
+17	37	2	adjunct archivarius	0	0	0	batfra_37	batfra_0
+18	38	2	commissaris-adviseur tot de zaken der wis-, natuur-, schei- en werktuigkunde	0	0	0	batfra_38	batfra_0
+19	39	2	commissaris tot de zaken van het lager schoolwezen	0	0	0	batfra_39	batfra_0
+20	40	2	commissaris tot de zaken der geneeskundige staatsregeling	0	0	0	batfra_40	batfra_0
+21	41	2	commissaris tot de zaken van de landbouw	0	0	0	batfra_41	batfra_0
+22	43	2	landsastronomist	0	0	0	batfra_43	batfra_0
+23	45	2	inspecteur-generaal van de waterstaat	0	0	0	batfra_45	batfra_0
+24	48	2	président délégué	0	0	0	batfra_48	batfra_0
+25	49	2	keizer van Frankrijk	0	0	0	batfra_49	batfra_0
+26	55	2	ministre	0	0	0	batfra_55	batfra_0
+27	66	2	directeur-général	0	0	0	batfra_66	batfra_0
+28	69	2	directeur du premier arrondissement de la police générale	0	0	0	batfra_69	batfra_0
+29	70	2	inspecteur-général de la gendarmerie impériale	0	0	0	batfra_70	batfra_0
+30	71	2	premier président	0	0	0	batfra_71	batfra_0
+31	72	2	conseiller	0	0	0	batfra_72	batfra_0
+32	74	2	grand maître	0	0	0	batfra_74	batfra_0
+33	75	2	lieutenant-général de l' empereur	0	0	0	batfra_75	batfra_0
+34	76	2	gouverneur-général des départements de la Hollande	0	0	0	batfra_76	batfra_0
+35	77	2	koningin van Holland	0	0	0	batfra_77	batfra_0
+36	78	2	intendant-général de l' intérieur en Hollande	0	0	0	batfra_78	batfra_0
+37	81	2	raadpensionaris	0	0	0	batfra_81	batfra_0
+38	82	2	opperstalmeester	0	0	0	batfra_82	batfra_0
+39	83	2	grootmeester van het huis van de Koning	0	0	0	batfra_83	batfra_0
+40	84	2	president	0	0	0	batfra_84	batfra_0
+41	86	2	maître des Requêtes chargé du Service des Ponts et Chaussées en Hollande	0	0	0	batfra_86	batfra_0
+42	92	2	agent	0	0	0	batfra_92	batfra_0
+43	101	2	eerste commissaris van het commissariaat der Franse troepen in soldij der Bataafse Republiek	0	0	0	batfra_101	batfra_0
+44	103	2	commissaris-liquidateur	0	0	0	batfra_103	batfra_0
+45	109	2	grand maréchal du Palais	0	0	0	batfra_109	batfra_0
+46	111	2	secrétaire	0	0	0	batfra_111	batfra_0
+47	113	2	intendant général de l' Empereur	0	0	0	batfra_113	batfra_0
+48	116	2	procureur-général-impérial	0	0	0	batfra_116	batfra_0
+49	123	2	préfet	0	0	0	batfra_123	batfra_0
+50	128	2	grand-chancellier	0	0	0	batfra_128	batfra_0
+51	135	2	archi-chancelier de l' empire	0	0	0	batfra_135	batfra_0
+52	136	2	archi-trésorier de l' empire	0	0	0	batfra_136	batfra_0
+53	138	2	consul-général de France à Amsterdam	0	0	0	batfra_138	batfra_0
+54	139	2	consul de France à Rotterdam	0	0	0	batfra_139	batfra_0
+55	140	2	vice-consul de France à Hellevoetsluis	0	0	0	batfra_140	batfra_0
+56	148	2	archiviste	0	0	0	batfra_148	batfra_0
+57	155	2	maître des Requêtes au Conseil d' État en service extraordinaire	0	0	0	batfra_155	batfra_0
+58	157	2	directeur principal des douanes en Hollande, à Amsterdam	0	0	0	batfra_157	batfra_0
+59	159	2	auditeur de la première classe	0	0	0	batfra_159	batfra_0
+60	160	2	auditeur de la deuxième classe	0	0	0	batfra_160	batfra_0
+61	161	2	auditeur de la troisième classe	0	0	0	batfra_161	batfra_0
+62	162	2	auditeur en service extraordinaire	0	0	0	batfra_162	batfra_0
+63	164	2	secrétaire-géneral	0	0	0	batfra_164	batfra_0
+64	165	2	membre	0	0	0	batfra_165	batfra_0
+65	168	2	sous-chef division du Nord	0	0	0	batfra_168	batfra_0
+66	169	2	membre du Conseil Général de Commerce	0	0	0	batfra_169	batfra_0
+67	172	2	inspecteur-général des Ponts et Chaussées	0	0	0	batfra_172	batfra_0
+68	184	2	inspecteur-général des Côtes de la Mer du Nord	0	0	0	batfra_184	batfra_0
+69	185	2	vice-amiral	0	0	0	batfra_185	batfra_0
+70	186	2	contre-amiral de la Marine Impériale	0	0	0	batfra_186	batfra_0
+71	187	2	chef militaire du port à Amsterdam	0	0	0	batfra_187	batfra_0
+72	188	2	chef militaire du port à Rotterdam	0	0	0	batfra_188	batfra_0
+73	189	2	inspecteur de la marine à Amsterdam	0	0	0	batfra_189	batfra_0
+74	190	2	sous-inspecteur de première classe de la Marine à Rotterdam	0	0	0	batfra_190	batfra_0
+75	191	2	sous-inspecteur de seconde classe de la Marine à Amsterdam	0	0	0	batfra_191	batfra_0
+76	192	2	directeur d' équipement dans l' arrondissement maritime de Hollande	0	0	0	batfra_192	batfra_0
+77	204	2	advocaat-fiscaal-generaal	0	0	0	batfra_204	batfra_0
+78	208	2	archivist	0	0	0	batfra_208	batfra_0
+79	212	2	directeur particulier des douanes à  Amsterdam	0	0	0	batfra_212	batfra_0
+80	214	2	directeur particulier des douanes à Dokkum	0	0	0	batfra_214	batfra_0
+81	215	2	directeur particulier des douanes à  Emden	0	0	0	batfra_215	batfra_0
+82	217	2	président	0	0	0	batfra_217	batfra_0
+83	218	2	maître des requêtes directeur des polders	0	0	0	batfra_218	batfra_0
+84	222	2	sénateur	0	0	0	batfra_222	batfra_0
+85	225	2	référendaire de la seconde classe	0	0	0	batfra_225	batfra_0
+86	226	2	directeur des Ponts et Chaussées en Hollande	0	0	0	batfra_226	batfra_0
+87	227	2	ingénieur en chef des Ponts et Chaussées	0	0	0	batfra_227	batfra_0
+88	229	2	inspecteur de l' imprimerie et de la librairie	0	0	0	batfra_229	batfra_0
+89	231	2	commissaire-vérificateur à l' Estampille	0	0	0	batfra_231	batfra_0
+90	232	2	commissaire des poudreries à Amsterdam	0	0	0	batfra_232	batfra_0
+91	233	2	inspecteur-général du Service de Santé des Armées	0	0	0	batfra_233	batfra_0
+92	238	2	commissaire spécial de la police	0	0	0	batfra_238	batfra_0
+93	245	2	eerste voorzitter van het Hof van Rekeningen van het Koninkrijk Holland	0	0	0	batfra_245	batfra_0
+94	246	2	voorzitter	0	0	0	batfra_246	batfra_0
+95	247	2	directeur van de publieke domeinen en de geestelijke goederen	0	0	0	batfra_247	batfra_0
+96	250	2	général de division, commandant de la trente-unième division	0	0	0	batfra_250	batfra_0
+97	251	2	inspecteur des 32e et 33e légions de la Gendarmerie impériale à Amsterdam	0	0	0	batfra_251	batfra_0
+98	273	2	maire van Rotterdam	0	0	0	batfra_273	batfra_0
+99	275	2	sous-préfet	0	0	0	batfra_275	batfra_0
+100	280	2	procureur-général-impérial à La Haye	0	0	0	batfra_280	batfra_0
+101	282	2	conservateur des forêts à Amsterdam	0	0	0	batfra_282	batfra_0
+102	283	2	commissaire impérial Monnaie d' Utrecht	0	0	0	batfra_283	batfra_0
+103	287	2	recteur de l' Académie de Groningue	0	0	0	batfra_287	batfra_0
+104	288	2	recteur de l' Académie de Leyde	0	0	0	batfra_288	batfra_0
+105	289	2	gouverneur	0	0	0	batfra_289	batfra_0
+106	290	2	keizerin van Frankrijk	0	0	0	batfra_290	batfra_0
+107	295	2	algemeen secretaris	0	0	0	batfra_295	batfra_0
+108	303	2	secretaris	0	0	0	batfra_303	batfra_0
+109	304	2	thesaurier-generaal	0	0	0	batfra_304	batfra_0
+110	307	2	raad	0	0	0	batfra_307	batfra_0
+111	311	2	archivarius	0	0	0	batfra_311	batfra_0
+112	321	2	procureur-generaal	0	0	0	batfra_321	batfra_0
+113	326	2	commissaris	0	0	0	batfra_326	batfra_0
+114	330	2	advocaat-fiscaal over de militie	0	0	0	batfra_330	batfra_0
+115	332	2	advocaat-fiscaal over de zeemacht	0	0	0	batfra_332	batfra_0
+116	335	2	essayeur-generaal	0	0	0	batfra_335	batfra_0
+117	336	2	commissaris tot de Gecedeerde Landen aan de Bataafse Republiek	0	0	0	batfra_336	batfra_0
+118	338	2	lid	0	0	0	batfra_338	batfra_0
+119	342	2	algemene secretaris van staat	0	0	0	batfra_342	batfra_0
+120	343	2	griffier	0	0	0	batfra_343	batfra_0
+121	348	2	commissaris tot de zaken van de geneeskundige staatsregeling	0	0	0	batfra_348	batfra_0
+122	355	2	kapitein-generaal van de jacht	0	0	0	batfra_355	batfra_0
+123	356	2	opperjagermeester	0	0	0	batfra_356	batfra_0
+124	358	2	particulier secretaris van Lodewijk Napoleon	0	0	0	batfra_358	batfra_0
+125	360	2	secretaris politieke correspondentie (secrétaire des commandements)	0	0	0	batfra_360	batfra_0
+126	361	2	secretaris van Staat	0	0	0	batfra_361	batfra_0
+127	374	2	grootkamerheer	0	0	0	batfra_374	batfra_0
+128	375	2	grootmaarschalk van het Paleis	0	0	0	batfra_375	batfra_0
+129	376	2	grootceremoniemeester	0	0	0	batfra_376	batfra_0
+130	377	2	waarnemend secretaris van staat	0	0	0	batfra_377	batfra_0
+131	378	2	thesaurier-generaal van de kroon	0	0	0	batfra_378	batfra_0
+132	379	2	betaalmeester van oorlog	0	0	0	batfra_379	batfra_0
+133	380	2	betaalmeester te velde	0	0	0	batfra_380	batfra_0
+134	381	2	directeur van de administratie van oorlog	0	0	0	batfra_381	batfra_0
+135	382	2	grootmeester	0	0	0	batfra_382	batfra_0
+136	384	2	groot-kanselier	0	0	0	batfra_384	batfra_0
+137	385	2	groot-thesaurier	0	0	0	batfra_385	batfra_0
+138	387	2	secretaris-generaal	0	0	0	batfra_387	batfra_0
+139	391	2	eerste president van de staatsraad	0	0	0	batfra_391	batfra_0
+140	395	2	landdrost	0	0	0	batfra_395	batfra_0
+141	403	2	commissaris-generaal voor de koloniën	0	0	0	batfra_403	batfra_0
+142	409	2	inspecteur en essayeur-generaal van de munt en van goud- en zilverwerken	0	0	0	batfra_409	batfra_0
+143	412	2	maire van Utrecht	0	0	0	batfra_412	batfra_0
+144	413	2	commissaris-generaal voor het geneeskundige	0	0	0	batfra_413	batfra_0
+145	414	2	ontvanger-generaal	0	0	0	batfra_414	batfra_0
+146	416	2	archivist-directeur van de plannen	0	0	0	batfra_416	batfra_0
+147	417	2	algemeen geheimschrijver	0	0	0	batfra_417	batfra_0
+148	419	2	zaakverzorger des Konings bij het Hof van Rekening	0	0	0	batfra_419	batfra_0
+149	424	2	waarnemend Voorzitter	0	0	0	batfra_424	batfra_0
+150	427	2	secretaris-archivist	0	0	0	batfra_427	batfra_0
+151	429	2	provisioneel secretaris-generaal	0	0	0	batfra_429	batfra_0
+152	432	2	commissaris tot de zaken van het fabriekswezen	0	0	0	batfra_432	batfra_0
+153	436	2	commissaire général de l' agriculture	0	0	0	batfra_436	batfra_0
+154	439	2	directeur van de militaire archieven, plans en kaarten	0	0	0	batfra_439	batfra_0
+155	440	2	eerste aalmoezenier van de koning	0	0	0	batfra_440	batfra_0
+156	451	2	redenaar	0	0	0	batfra_451	batfra_0
+157	453	2	hoofd-administrateur van het mortificatiefonds	0	0	0	batfra_453	batfra_0
+158	479	2	administrateur van het kohier der verpondingen	0	0	0	batfra_479	batfra_0
+159	482	2	secretaris en lid van het Comité Centraal van Marine en Waterstaat	0	0	0	batfra_482	batfra_0
+160	483	2	gouverneur-generaal	0	0	0	batfra_483	batfra_0
+161	484	2	inspecteur en chef de la Loterie à Amsterdam	0	0	0	batfra_484	batfra_0
+162	486	2	lid van het Comité Centraal van Marine en Koloniën	0	0	0	batfra_486	batfra_0
+163	487	2	président du Conseil	0	0	0	batfra_487	batfra_0
+164	488	2	président de la section de Cassation Criminelle	0	0	0	batfra_488	batfra_0
+165	489	2	chef de la division du Nord	0	0	0	batfra_489	batfra_0
+166	491	2	inspecteur-generaal	0	0	0	batfra_491	batfra_0
+167	492	2	ontvanger-generaal van de administratie te lande	0	0	0	batfra_492	batfra_0
+168	493	2	gouverneur-generaal van Oost-Friesland	0	0	0	batfra_493	batfra_0
+169	494	2	representant	0	0	0	batfra_494	batfra_0
+170	496	2	chef	0	0	0	batfra_496	batfra_0
+171	497	2	president van de commissie van superintendentie tot de zaken van de Verpondingen	0	0	0	batfra_497	batfra_0
+172	499	2	directeur-generaal van het geneeskundig Bestuur van de Armée	0	0	0	batfra_499	batfra_0
+173	500	2	secretaris van het departement	0	0	0	batfra_500	batfra_0
+174	501	2	ministre secrétaire d' État	0	0	0	batfra_501	batfra_0
+175	502	2	secretaris der wetenschappen en kunsten	0	0	0	batfra_502	batfra_0
+176	503	2	commissaire-général de la police	0	0	0	batfra_503	batfra_0
+177	504	2	raadsheer	0	0	0	batfra_504	batfra_0
+178	505	2	waardijn	0	0	0	batfra_505	batfra_0
+179	506	2	directeur de la Monnaie d' Utrecht	0	0	0	batfra_506	batfra_0
+180	507	2	lid van de raad van administratie over de Waterstaat	0	0	0	batfra_507	batfra_0
+181	509	2	chef de bureau	0	0	0	batfra_509	batfra_0
+182	510	2	intendant-général	0	0	0	batfra_510	batfra_0
+183	511	2	président de la section des requêtes	0	0	0	batfra_511	batfra_0
+184	512	2	gouverneur van Kaap de Goede Hoop	0	0	0	batfra_512	batfra_0
+185	513	2	lid van de commissie van superintendentie tot de zaken van de verpondingen	0	0	0	batfra_513	batfra_0
+186	515	2	secrétaire-général de la préfecture	0	0	0	batfra_515	batfra_0
+187	516	2	directeur van de middelen te water	0	0	0	batfra_516	batfra_0
+188	517	2	directeur-generaal van de middelen te water	0	0	0	batfra_517	batfra_0
+189	518	2	secretaris van de commissie van superintendentie tot de zaken van de verpondingen	0	0	0	batfra_518	batfra_0
+190	519	2	secretaris-generaal van het Kohier van de Verponding	0	0	0	batfra_519	batfra_0
+191	521	2	grand Chambellan	0	0	0	batfra_521	batfra_0
+192	522	2	secrétaire du Cabinet de l' Empereur	0	0	0	batfra_522	batfra_0
+193	523	2	président de la section de cassation civile	0	0	0	batfra_523	batfra_0
+194	524	2	president van het kohier van de verponding	0	0	0	batfra_524	batfra_0
+195	525	2	lid (in gewone dienst)	0	0	0	batfra_525	batfra_0
+196	526	2	substituut-secretaris	0	0	0	batfra_526	batfra_0
+197	527	2	président de la section de l' Intérieur	0	0	0	batfra_527	batfra_0
+198	528	2	ministre (grand juge)	0	0	0	batfra_528	batfra_0
+199	529	2	préfet maritime de Hollande	0	0	0	batfra_529	batfra_0
+200	530	2	secretaris van het commandement van het Gouvernement van Holland	0	0	0	batfra_530	batfra_0
+201	532	2	secretaris-generaal van de algemene directie van de Waterstaat	0	0	0	batfra_532	batfra_0
+202	533	2	controleur van de gebouwen in de residentie	0	0	0	batfra_533	batfra_0
+203	534	2	commies van de Controleur van de gebouwen in de residentie	0	0	0	batfra_534	batfra_0
+204	535	2	controleur van de Koninklijke gebouwen binnen Utrecht	0	0	0	batfra_535	batfra_0
+205	539	2	substituut-griffier	0	0	0	batfra_539	batfra_0
+206	540	2	raad-auditeur	0	0	0	batfra_540	batfra_0
+207	541	2	advocat-général	0	0	0	batfra_541	batfra_0
+208	542	2	commies-griffier	0	0	0	batfra_542	batfra_0
+209	543	2	conseiller de préfecture	0	0	0	batfra_543	batfra_0
+210	544	2	assessor	0	0	0	batfra_544	batfra_0
+211	545	2	secretaris ad interim der Financie	0	0	0	batfra_545	batfra_0
+212	546	2	kwartierdrost (drost)	0	0	0	batfra_546	batfra_0
+213	547	2	commies	0	0	0	batfra_547	batfra_0
+214	548	2	momber (Procureur-generaal)	0	0	0	batfra_548	batfra_0
+215	551	2	commissielid	0	0	0	batfra_551	batfra_0
+216	552	2	toegevoegd commies	0	0	0	batfra_552	batfra_0
+217	553	2	membre du Conseil général	0	0	0	batfra_553	batfra_0
+218	554	2	advocaat-fiscaal	0	0	0	batfra_554	batfra_0
+219	555	2	eerste griffier	0	0	0	batfra_555	batfra_0
+220	556	2	tweede griffier	0	0	0	batfra_556	batfra_0
+221	557	2	substituut-momber	0	0	0	batfra_557	batfra_0
+222	559	2	sous-chef	0	0	0	batfra_559	batfra_0
+223	560	2	provisioneel secretaris	0	0	0	batfra_560	batfra_0
+224	561	2	klerk	0	0	0	batfra_561	batfra_0
+225	562	2	provisioneel minister	0	0	0	batfra_562	batfra_0
+226	564	2	chef de bureau	0	0	0	batfra_564	batfra_0
+227	565	2	tweede commies	0	0	0	batfra_565	batfra_0
+228	566	2	indexmaker	0	0	0	batfra_566	batfra_0
+229	567	2	eerste commies	0	0	0	batfra_567	batfra_0
+230	568	2	commies expediteur	0	0	0	batfra_568	batfra_0
+231	569	2	tweede commies notularis	0	0	0	batfra_569	batfra_0
+232	570	2	sub-Agent	0	0	0	batfra_570	batfra_0
+233	571	2	commissaris directeur	0	0	0	batfra_571	batfra_0
+234	572	2	employé	0	0	0	batfra_572	batfra_0
+235	573	2	president der zeewerken	0	0	0	batfra_573	batfra_0
+236	574	2	extraordinaris klerk ter assistentie van de Agent	0	0	0	batfra_574	batfra_0
+237	575	2	commies tekenaar	0	0	0	batfra_575	batfra_0
+238	576	2	lid van de waterstaat	0	0	0	batfra_576	batfra_0
+239	577	2	boekhouder van de waterstaat	0	0	0	batfra_577	batfra_0
+240	578	2	landschrijver	0	0	0	batfra_578	batfra_0
+241	580	2	kopiist geheime stukken	0	0	0	batfra_580	batfra_0
+242	581	2	charterbewaarder	0	0	0	batfra_581	batfra_0
+243	582	2	landsadvocaat	0	0	0	batfra_582	batfra_0
+244	583	2	commies-notularis	0	0	0	batfra_583	batfra_0
+245	584	2	klerk-expediteur	0	0	0	batfra_584	batfra_0
+246	585	2	eerste klerk	0	0	0	batfra_585	batfra_0
+247	587	2	secretaris van de eerste Kamer	0	0	0	batfra_587	batfra_0
+248	588	2	charterklerk	0	0	0	batfra_588	batfra_0
+249	589	2	lands-fiscaal	0	0	0	batfra_589	batfra_0
+250	591	2	secretaris van de cijfers van de Staat	0	0	0	batfra_591	batfra_0
+251	592	2	hoofdcommies	0	0	0	batfra_592	batfra_0
+252	593	2	commies ter ordonnantie	0	0	0	batfra_593	batfra_0
+253	594	2	commissaris bij het departement van Landbouw	0	0	0	batfra_594	batfra_0
+254	595	2	commissaris bij het departement van de Fabrieken	0	0	0	batfra_595	batfra_0
+255	596	2	thesaurier van de Domeinen	0	0	0	batfra_596	batfra_0
+256	597	2	inspecteur van de Domeinen	0	0	0	batfra_597	batfra_0
+257	598	2	klerk-notularis	0	0	0	batfra_598	batfra_0
+258	599	2	geheimklerk	0	0	0	batfra_599	batfra_0
+259	600	2	klerk der eerste Klasse	0	0	0	batfra_600	batfra_0
+260	601	2	klerk der tweede Klasse	0	0	0	batfra_601	batfra_0
+261	602	2	klerk der Derde Klasse	0	0	0	batfra_602	batfra_0
+262	603	2	tweede klerk	0	0	0	batfra_603	batfra_0
+263	604	2	commies tot de geneeskundige Staatsregeling	0	0	0	batfra_604	batfra_0
+264	605	2	chef der Politie	0	0	0	batfra_605	batfra_0
+265	606	2	eerste commies notularis	0	0	0	batfra_606	batfra_0
+266	607	2	tweede commies notularis	0	0	0	batfra_607	batfra_0
+267	608	2	drossaard	0	0	0	batfra_608	batfra_0
+268	609	2	hoofd-commissaris-inspecteur bij de Waterstaat	0	0	0	batfra_609	batfra_0
+269	610	2	commissaris-inspecteur bij de Waterstaat	0	0	0	batfra_610	batfra_0
+270	611	2	commies-directeur van de equipage	0	0	0	batfra_611	batfra_0
+271	612	2	commies-directeur van financiën	0	0	0	batfra_612	batfra_0
+272	613	2	charterkamer-commies	0	0	0	batfra_613	batfra_0
+273	614	2	meesterknecht	0	0	0	batfra_614	batfra_0
+274	615	2	extraordinaris klerk	0	0	0	batfra_615	batfra_0
+275	616	2	adjunct secretaris der cijfers	0	0	0	batfra_616	batfra_0
+276	617	2	sub-griffier	0	0	0	batfra_617	batfra_0
+277	618	2	klerk bij de commies indexmaker	0	0	0	batfra_618	batfra_0
+278	619	2	commies tot de zaken van de waterstaat	0	0	0	batfra_619	batfra_0
+279	620	2	agendaris	0	0	0	batfra_620	batfra_0
+280	621	2	chartermeester	0	0	0	batfra_621	batfra_0
+281	622	2	afgevaardigd lid	0	0	0	batfra_622	batfra_0
+282	623	2	directeur-generaal van de nationale rivier- en zeewerken	0	0	0	batfra_623	batfra_0
+283	624	2	inspecteur van de rivieren	0	0	0	batfra_624	batfra_0
+284	625	2	inspecteur van de zeehavens en zeegaten	0	0	0	batfra_625	batfra_0
+285	626	2	superintendent Bureau Betaling van de Armee	0	0	0	batfra_626	batfra_0
+286	627	2	directeur Bataafse Courant	0	0	0	batfra_627	batfra_0
+287	628	2	commissaris van de Nationale Thesaurie	0	0	0	batfra_628	batfra_0
+288	629	2	rang nog onbekend	0	0	0	batfra_629	batfra_0
+289	630	2	boekhouder	0	0	0	batfra_630	batfra_0
+290	631	2	tabelmaker	0	0	0	batfra_631	batfra_0
+291	633	2	extraordinaris raad	0	0	0	batfra_633	batfra_0
+292	634	2	kamerheer	0	0	0	batfra_634	batfra_0
+293	636	2	commissaris Domeinen Nassau	0	0	0	batfra_636	batfra_0
+294	637	2	commissaris-inspecteur Domeinen Nassau	0	0	0	batfra_637	batfra_0
+295	638	2	commissaris Mortificatiebureau	0	0	0	batfra_638	batfra_0
+296	639	2	ontvanger-generaal Domeinen	0	0	0	batfra_639	batfra_0
+297	640	2	directeur Loterijen	0	0	0	batfra_640	batfra_0
+298	641	2	commissaris-directeur Klein Zegel	0	0	0	batfra_641	batfra_0
+299	642	2	commissaris-directeur Zegel Patent	0	0	0	batfra_642	batfra_0
+300	643	2	inspecteur-generaal van de Nationale Middelen	0	0	0	batfra_643	batfra_0
+301	644	2	chef bureau de traduction	0	0	0	batfra_644	batfra_0
+302	647	2	chef Frans Bureau	0	0	0	batfra_647	batfra_0
+303	648	2	employé Frans Bureau	0	0	0	batfra_648	batfra_0
+304	650	2	secretaris-generaal in Oost-Friesland	0	0	0	batfra_650	batfra_0
+305	651	2	auditeur	0	0	0	batfra_651	batfra_0
+306	652	2	inspecteur	0	0	0	batfra_652	batfra_0
+307	653	2	bibliothecaris-generaal	0	0	0	batfra_653	batfra_0
+308	655	2	superintendent Koninklijke Courant	0	0	0	batfra_655	batfra_0
+309	657	2	adjunct chef divisie	0	0	0	batfra_657	batfra_0
+310	658	2	commissaris-generaal in Oost-Friesland	0	0	0	batfra_658	batfra_0
+311	659	2	chef generaal secretariaat	0	0	0	batfra_659	batfra_0
+312	663	2	administrateur-generaal	0	0	0	batfra_663	batfra_0
+313	665	2	chef divisie artillerie en genie	0	0	0	batfra_665	batfra_0
+314	666	2	directeur van het Depot van Marine	0	0	0	batfra_666	batfra_0
+315	667	2	directeur van het Depot der Koloniën	0	0	0	batfra_667	batfra_0
+316	668	2	chef bureau rekesten	0	0	0	batfra_668	batfra_0
+317	669	2	directeur des élèves à Paris et à Rome	0	0	0	batfra_669	batfra_0
+318	675	2	chef divisie	0	0	0	batfra_675	batfra_0
+319	676	2	kabinetsraad	0	0	0	batfra_676	batfra_0
+320	679	2	president Cohier Verponding	0	0	0	batfra_679	batfra_0
+321	680	2	chef generale comptabiliteit	0	0	0	batfra_680	batfra_0
+322	681	2	opperboekhouder	0	0	0	batfra_681	batfra_0
+323	682	2	permanente commissaris Verificateur	0	0	0	batfra_682	batfra_0
+324	683	2	eerste Kabinetssecretaris	0	0	0	batfra_683	batfra_0
+325	684	2	traducteur	0	0	0	batfra_684	batfra_0
+326	685	2	grootmeester der Wapenen	0	0	0	batfra_685	batfra_0
+327	686	2	chef secretariaat	0	0	0	batfra_686	batfra_0
+328	687	2	adjunct secretaris	0	0	0	batfra_687	batfra_0
+329	688	2	commissaris-Verificateur	0	0	0	batfra_688	batfra_0
+330	689	2	eerste Boekhouder	0	0	0	batfra_689	batfra_0
+331	690	2	archivist en chef expeditie	0	0	0	batfra_690	batfra_0
+332	691	2	chef algemene comptabiliteit	0	0	0	batfra_691	batfra_0
+333	692	2	kassier	0	0	0	batfra_692	batfra_0
+334	693	2	commies-generaal van de Convooien en Licenten	0	0	0	batfra_693	batfra_0
+335	694	2	translateur Frans en Latijn	0	0	0	batfra_694	batfra_0
+336	695	2	klerk van de cijfers	0	0	0	batfra_695	batfra_0
+337	696	2	adjunct klerk van de cijfers	0	0	0	batfra_696	batfra_0
+338	697	2	onderklerk	0	0	0	batfra_697	batfra_0
+339	698	2	generaalmeester van de Munt	0	0	0	batfra_698	batfra_0
+340	699	2	commissaris van de uitheemse dépêches	0	0	0	batfra_699	batfra_0
+341	700	2	gedeputeerde	0	0	0	batfra_700	batfra_0
+342	701	2	visitateur-generaal	0	0	0	batfra_701	batfra_0
+343	702	2	secretaris commissie Buitenlandse Zaken	0	0	0	batfra_702	batfra_0
+344	703	2	commies commissie Buitenlandse Zaken	0	0	0	batfra_703	batfra_0
+345	704	2	ordinaris klerk	0	0	0	batfra_704	batfra_0
+346	706	2	opzichter der gebouwen	0	0	0	batfra_706	batfra_0
+347	707	2	translateur Duits	0	0	0	batfra_707	batfra_0
+348	708	2	commies Buitenlandse Zaken en Agent	0	0	0	batfra_708	batfra_0
+349	709	2	secretaris commissie Binnenlandse Correspondentie	0	0	0	batfra_709	batfra_0
+350	710	2	klerk-indexmaker	0	0	0	batfra_710	batfra_0
+351	711	2	expediteur	0	0	0	batfra_711	batfra_0
+352	712	2	extraordinaris expediteur	0	0	0	batfra_712	batfra_0
+353	713	2	assistant	0	0	0	batfra_713	batfra_0
+354	714	2	secrétaire Conseil Général	0	0	0	batfra_714	batfra_0
+355	715	2	secretaris departement van de jacht	0	0	0	batfra_715	batfra_0
+356	716	2	ontvanger-generaal Holland	0	0	0	batfra_716	batfra_0
+357	717	2	intendant	0	0	0	batfra_717	batfra_0
+358	718	2	grand-trésorier	0	0	0	batfra_718	batfra_0
+359	719	2	amanuensis	0	0	0	batfra_719	batfra_0
+360	720	2	censeur	0	0	0	batfra_720	batfra_0
+361	721	2	adjunct hoofdcommies	0	0	0	batfra_721	batfra_0
+362	722	2	commies chartermeester	0	0	0	batfra_722	batfra_0
+363	723	2	directeur correspondentie	0	0	0	batfra_723	batfra_0
+364	724	2	boodschapper van staat	0	0	0	batfra_724	batfra_0
+365	725	2	gecommitteerde	0	0	0	batfra_725	batfra_0
+366	426	2	secretaris onder orders van de Provisionele raad van Regentschap	0	0	0	batfra_426	batfra_0
+0	1	2	lid	0	0	0	negentiende_eeuw_1	negentiende_eeuw_0
+1	2	2	griffier	0	0	0	negentiende_eeuw_2	negentiende_eeuw_0
+2	3	2	commies van staat	0	0	0	negentiende_eeuw_3	negentiende_eeuw_0
+3	4	2	commies-griffier	0	0	0	negentiende_eeuw_4	negentiende_eeuw_0
+4	5	2	buitengewoon lid in werkelijke dienst	0	0	0	negentiende_eeuw_5	negentiende_eeuw_0
+5	6	2	secretaris	0	0	0	negentiende_eeuw_6	negentiende_eeuw_0
+6	7	2	referendaris	0	0	0	negentiende_eeuw_7	negentiende_eeuw_0
+7	8	2	referendaris eerste klasse	0	0	0	negentiende_eeuw_8	negentiende_eeuw_0
+8	9	2	referendaris tweede klasse	0	0	0	negentiende_eeuw_9	negentiende_eeuw_0
+9	10	2	voorzitter	0	0	0	negentiende_eeuw_10	negentiende_eeuw_0
+10	11	2	commissaris-generaal	0	0	0	negentiende_eeuw_11	negentiende_eeuw_0
+11	12	2	secretaris van staat	0	0	0	negentiende_eeuw_12	negentiende_eeuw_0
+12	13	2	minister	0	0	0	negentiende_eeuw_13	negentiende_eeuw_0
+13	14	2	waarnemend minister	0	0	0	negentiende_eeuw_14	negentiende_eeuw_0
+14	15	2	minister a.i.	0	0	0	negentiende_eeuw_15	negentiende_eeuw_0
+15	16	2	waarnemend secretaris van staat	0	0	0	negentiende_eeuw_16	negentiende_eeuw_0
+16	17	2	gouverneur-generaal van de gewapende macht	0	0	0	negentiende_eeuw_17	negentiende_eeuw_0
+17	18	2	waarnemend commissaris-generaal	0	0	0	negentiende_eeuw_18	negentiende_eeuw_0
+18	19	2	commissaris-generaal a.i.	0	0	0	negentiende_eeuw_19	negentiende_eeuw_0
+19	20	2	directeur-generaal	0	0	0	negentiende_eeuw_20	negentiende_eeuw_0
+20	21	2	directeur-generaal a.i.	0	0	0	negentiende_eeuw_21	negentiende_eeuw_0
+21	22	2	waarnemend directeur-generaal	0	0	0	negentiende_eeuw_22	negentiende_eeuw_0
+22	23	2	postmeester-generaal	0	0	0	negentiende_eeuw_23	negentiende_eeuw_0
+23	24	2	procureur-generaal	0	0	0	negentiende_eeuw_24	negentiende_eeuw_0
+24	25	2	hoofdadministrateur	0	0	0	negentiende_eeuw_25	negentiende_eeuw_0
+25	26	2	minister van staat	0	0	0	negentiende_eeuw_26	negentiende_eeuw_0
+26	27	2	directeur	0	0	0	negentiende_eeuw_27	negentiende_eeuw_0
+27	28	2	waarnemend directeur	0	0	0	negentiende_eeuw_28	negentiende_eeuw_0
+28	29	2	waarnemend procureur-generaal	0	0	0	negentiende_eeuw_29	negentiende_eeuw_0
+29	30	2	advocaat-generaal	0	0	0	negentiende_eeuw_30	negentiende_eeuw_0
+30	31	2	waarnemend eerste griffier	0	0	0	negentiende_eeuw_31	negentiende_eeuw_0
+31	32	2	kamerpresident	0	0	0	negentiende_eeuw_32	negentiende_eeuw_0
+32	33	2	raad-auditeur	0	0	0	negentiende_eeuw_33	negentiende_eeuw_0
+33	34	2	raadsheer	0	0	0	negentiende_eeuw_34	negentiende_eeuw_0
+34	35	2	substituut-procureur-generaal	0	0	0	negentiende_eeuw_35	negentiende_eeuw_0
+35	36	2	waarnemend advocaat-generaal	0	0	0	negentiende_eeuw_36	negentiende_eeuw_0
+36	37	2	eerste advocaat-generaal	0	0	0	negentiende_eeuw_37	negentiende_eeuw_0
+37	38	2	eerste griffier	0	0	0	negentiende_eeuw_38	negentiende_eeuw_0
+38	39	2	eerste president	0	0	0	negentiende_eeuw_39	negentiende_eeuw_0
+39	40	2	buitengewoon substituut-procureur-generaal	0	0	0	negentiende_eeuw_40	negentiende_eeuw_0
+40	41	2	president	0	0	0	negentiende_eeuw_41	negentiende_eeuw_0
+41	42	2	vice-president	0	0	0	negentiende_eeuw_42	negentiende_eeuw_0
+42	43	2	rechter	0	0	0	negentiende_eeuw_43	negentiende_eeuw_0
+43	44	2	substituut-officier	0	0	0	negentiende_eeuw_44	negentiende_eeuw_0
+44	45	2	officier van criminele justitie	0	0	0	negentiende_eeuw_45	negentiende_eeuw_0
+45	46	2	advocaat-fiscaal	0	0	0	negentiende_eeuw_46	negentiende_eeuw_0
+46	47	2	substituut-advocaat-fiscaal	0	0	0	negentiende_eeuw_47	negentiende_eeuw_0
+47	48	2	raad en advocaat-fiscaal-generaal	0	0	0	negentiende_eeuw_48	negentiende_eeuw_0
+48	50	2	gouverneur	0	0	0	negentiende_eeuw_50	negentiende_eeuw_0
+49	51	2	commissaris des konings	0	0	0	negentiende_eeuw_51	negentiende_eeuw_0
+50	52	2	buitengewoon commissaris	0	0	0	negentiende_eeuw_52	negentiende_eeuw_0
+51	53	2	commissaris	0	0	0	negentiende_eeuw_53	negentiende_eeuw_0
+52	54	2	intendant-generaal	0	0	0	negentiende_eeuw_54	negentiende_eeuw_0
+53	55	2	secretaris-generaal	0	0	0	negentiende_eeuw_55	negentiende_eeuw_0
+54	56	2	raadadviseur	0	0	0	negentiende_eeuw_56	negentiende_eeuw_0
+55	57	2	administrateur	0	0	0	negentiende_eeuw_57	negentiende_eeuw_0
+56	58	2	hoofdambtenaar	0	0	0	negentiende_eeuw_58	negentiende_eeuw_0
+57	59	2	geheim secretaris	0	0	0	negentiende_eeuw_59	negentiende_eeuw_0
+58	60	2	secretaris der cijfers	0	0	0	negentiende_eeuw_60	negentiende_eeuw_0
+59	61	2	secretaris-adviseur	0	0	0	negentiende_eeuw_61	negentiende_eeuw_0
+60	63	2	raad	0	0	0	negentiende_eeuw_63	negentiende_eeuw_0
+61	64	2	hoofddirecteur	0	0	0	negentiende_eeuw_64	negentiende_eeuw_0
+62	65	2	opperdirecteur	0	0	0	negentiende_eeuw_65	negentiende_eeuw_0
+0	1	0	rekenmeester	0	0	0	me_1	me_0
+1	4	0	auditeur	0	0	0	me_4	me_0
+2	9	0	griffier	0	0	0	me_9	me_0
+3	11	0	secretaris	0	0	0	me_11	me_0
+4	13	0	auditeur-extraordinaris	0	0	0	me_13	me_0
+5	14	0	rekenmeester-extraordinaris	0	0	0	me_14	me_0
+6	17	0	president	0	0	0	me_17	me_0
+7	19	0	commissaris	0	0	0	me_19	me_0
+8	21	0	ontvanger-generaal	0	0	0	me_21	me_0
+9	22	0	substituut-griffier	0	0	0	me_22	me_0
+10	24	0	procureur-generaal	0	0	0	me_24	me_0
+11	25	0	advocaat-fiscaal	0	0	0	me_25	me_0
+12	27	0	rentmeester-generaal	0	0	0	me_27	me_0
+13	31	0	voorzitter	0	0	0	me_31	me_0
+14	32	0	hoofd-president	0	0	0	me_32	me_0
+15	33	0	hoofd	0	0	0	me_33	me_0
+16	34	0	lid	0	0	0	me_34	me_0
+17	35	0	raadsheer	0	0	0	me_35	me_0
+18	39	0	stadhouder	0	0	0	me_39	me_0
+19	40	0	kanselier	0	0	0	me_40	me_0
+20	41	0	momber	0	0	0	me_41	me_0
+21	50	0	gouverneur	0	0	0	me_50	me_0
+22	56	0	procureur	0	0	0	me_56	me_0
+23	64	0	controleur	0	0	0	me_64	me_0
+24	72	0	stadhouder lenen	0	0	0	me_72	me_0
+25	85	0	audiëncier	0	0	0	me_85	me_0
+26	86	0	extraordinaris raadsheer	0	0	0	me_86	me_0
+27	88	0	president-raadsheer	0	0	0	me_88	me_0
+28	89	0	overste	0	0	0	me_89	me_0
+29	91	0	adjunct secretaris	0	0	0	me_91	me_0
+30	52	0	ontvanger exploiten	0	0	0	me_52	me_0
+31	36	0	thesaurier-generaal	0	0	0	me_36	me_0
+32	37	0	gecommitteerde	0	0	0	me_37	me_0
+33	48	0	landrentmeester-generaal	0	0	0	me_48	me_0
+34	42	0	raadsheer en momber	0	0	0	me_42	me_0
+35	77	0	advocaat Staten van Holland	0	0	0	me_77	me_0
+0	1	9	bestuursraad	0	0	0	divperioden_1	divperioden_0
+1	2	9	extraordinaris raadsheer	0	0	0	divperioden_2	divperioden_0
+2	3	9	justitieraad	0	0	0	divperioden_3	divperioden_0
+3	4	9	president-raadsheer	0	0	0	divperioden_4	divperioden_0
+4	5	9	raadsheer	0	0	0	divperioden_5	divperioden_0
+5	6	9	secretaris	0	0	0	divperioden_6	divperioden_0
+6	7	9	procureur-generaal	0	0	0	divperioden_7	divperioden_0
+7	8	9	advocaat-fiscaal	0	0	0	divperioden_8	divperioden_0
+8	9	9	griffier	0	0	0	divperioden_9	divperioden_0
+9	10	9	extraordinaris bestuursraad	0	0	0	divperioden_10	divperioden_0
+10	12	9	rentmeester-generaal	0	0	0	divperioden_12	divperioden_0
+11	13	9	gedeputeerde	0	0	0	divperioden_13	divperioden_0
+12	14	9	gecommitteerde	0	0	0	divperioden_14	divperioden_0
+13	15	9	ordinaris gedeputeerde	0	0	0	divperioden_15	divperioden_0
+14	19	9	lid	0	1	0	divperioden_19	divperioden_0
+15	20	9	ontvanger-generaal	0	0	0	divperioden_20	divperioden_0
+16	21	9	tweede secretaris	0	0	0	divperioden_21	divperioden_0
+17	22	9	pensionaris	0	0	0	divperioden_22	divperioden_0
+18	23	9	eerste presiderende raad	0	0	0	divperioden_23	divperioden_0
+19	25	9	commies-generaal van de convooien en licenten	0	0	0	divperioden_25	divperioden_0
+20	26	9	tweede advocaat-fiscaal	0	0	0	divperioden_26	divperioden_0
+21	27	9	adjunct advocaat-fiscaal	0	0	0	divperioden_27	divperioden_0
+22	28	9	adjunct secretaris	0	0	0	divperioden_28	divperioden_0
+23	29	9	lid	0	0	0	divperioden_29	divperioden_0
+0	1	1	gecommitteerde	2	0	1	republiek_1	republiek_1
+1	2	1	ordinaris raadsheer	6	0	2	republiek_2	republiek_2
+2	3	1	extraordinaris raadsheer	7	0	3	republiek_3	republiek_3
+3	4	1	president-raadsheer	4	0	4	republiek_4	republiek_4
+4	5	1	raadsheer	5	0	5	republiek_5	republiek_5
+5	8	1	ordinaris gedeputeerde	1	0	8	republiek_8	republiek_8
+6	10	1	advocaat-fiscaal	15	0	10	republiek_10	republiek_10
+7	11	1	agent	23	0	11	republiek_11	republiek_11
+8	12	1	auditeur	18	0	13	republiek_12	republiek_13
+9	13	1	commies	21	0	14	republiek_13	republiek_14
+10	15	1	griffier	19	0	16	republiek_15	republiek_16
+11	16	1	landsadvocaat	12	0	17	republiek_16	republiek_17
+12	17	1	ontvanger-generaal	17	0	18	republiek_17	republiek_18
+13	18	1	ontvanger-generaal van de Unie	11	0	19	republiek_18	republiek_19
+14	19	1	procureur-generaal	14	0	20	republiek_19	republiek_20
+15	20	1	raadpensionaris	13	0	21	republiek_20	republiek_21
+16	21	1	secretaris	16	0	22	republiek_21	republiek_22
+17	22	1	substituut-griffier	20	0	23	republiek_22	republiek_23
+18	23	1	thesaurier-generaal van de Unie	10	0	24	republiek_23	republiek_24
+19	26	1	ontvanger-generaal in het Noorderkwartier	17	0	27	republiek_26	republiek_27
+20	28	1	lid	0	1	2	republiek_28	republiek_2
+21	41	1	tweede advocaat-fiscaal	0	0	0	republiek_41	republiek_0
+22	42	1	tweede secretaris	0	0	0	republiek_42	republiek_0
+23	43	1	advocaat-fiscaal crimineel	0	0	0	republiek_43	republiek_0
+24	44	1	advocaat-fiscaal civiel	0	0	0	republiek_44	republiek_0
+25	48	1	procureur-generaal crimineel	0	0	0	republiek_48	republiek_0
+26	49	1	procureur-generaal civiel	0	0	0	republiek_49	republiek_0
+27	50	1	gedeputeerde	0	0	0	republiek_50	republiek_0
+28	51	1	thesaurier	0	0	0	republiek_51	republiek_0
+29	53	1	ontvanger van de exploten	0	0	0	republiek_53	republiek_0
+30	55	1	tweede griffier	0	0	0	republiek_55	republiek_0
+31	57	1	rekenmeester	0	0	0	republiek_57	republiek_0
+32	61	1	tweede ontvanger-generaal	0	0	0	republiek_61	republiek_0
+33	62	1	tweede procureur-generaal	0	0	0	republiek_62	republiek_0
+34	63	1	tweede agent	0	0	0	republiek_63	republiek_0
+35	64	1	extraordinaris commies-generaal van de con. en lic	0	0	0	republiek_64	republiek_0
+36	66	1	commies-generaal van de convooien en licenten	0	0	0	republiek_66	republiek_0
+37	67	1	tweede commies-generaal van de convooien en lic.	0	0	0	republiek_67	republiek_0
+38	68	1	thesaurier-generaal van Zeeland	0	0	0	republiek_68	republiek_0
+39	69	1	ontvanger-generaal van Zeeland	0	0	0	republiek_69	republiek_0
+40	70	1	adjunct advocaat-fiscaal	0	0	0	republiek_70	republiek_0
+41	71	1	adjunct procureur-generaal	0	0	0	republiek_71	republiek_0
+42	72	1	ontvanger-generaal van Holland	0	0	0	republiek_72	republiek_0
+43	73	1	adjunct secretaris	0	0	0	republiek_73	republiek_0
+44	74	1	substituut secretaris	0	0	0	republiek_74	republiek_0
+45	76	1	lid	0	0	0	republiek_76	republiek_0

@@ -1,0 +1,836 @@
+	idlokaal	lokaal	volgnummer	old_idlokaal
+0	1	Arrondissement Amsterdam	0	batfra_1
+1	2	Arrondissement Appingedam	0	batfra_2
+2	3	Arrondissement Den Briel	0	batfra_3
+3	4	Arrondissement Zierikzee	0	batfra_4
+4	5	Arrondissement Nijmegen	0	batfra_5
+5	6	Arrondissement Zutphen	0	batfra_6
+6	7	Arrondissement Eindhoven	0	batfra_7
+7	8	Arrondissement Rotterdam	0	batfra_8
+8	9	Arrondissement Zwolle	0	batfra_9
+9	10	Arrondissement Jever	0	batfra_10
+10	11	Arrondissement Groningen	0	batfra_11
+11	12	Arrondissement Emden	0	batfra_12
+12	13	Arrondissement Tiel	0	batfra_13
+13	14	Arrondissement Den Haag	0	batfra_14
+14	15	Arrondissement Alkmaar	0	batfra_15
+15	16	Arrondissement Leiden	0	batfra_16
+16	17	Arrondissement Deventer	0	batfra_17
+17	18	Arrondissement Gorinchem	0	batfra_18
+18	19	Arrondissement Leeuwarden	0	batfra_19
+19	20	Arrondissement Assen	0	batfra_20
+20	21	Arrondissement Heerenveen	0	batfra_21
+21	22	Arrondissement Hoorn	0	batfra_22
+22	23	Arrondissement Arnhem	0	batfra_23
+23	24	Arrondissement Goes	0	batfra_24
+24	25	Arrondissement Dordrecht	0	batfra_25
+25	26	Arrondissement Almelo	0	batfra_26
+26	27	Arrondissement Utrecht	0	batfra_27
+27	28	Arrondissement Haarlem	0	batfra_28
+28	29	Arrondissement Sneek	0	batfra_29
+29	30	Arrondissement Winschoten	0	batfra_30
+30	31	District Ferwerd	0	batfra_31
+31	32	District Balk	0	batfra_32
+32	33	District Amsterdam-I	0	batfra_33
+33	34	District Amsterdam-II	0	batfra_34
+34	35	District Amsterdam-III	0	batfra_35
+35	36	District Amsterdam-IV	0	batfra_36
+36	37	District Amsterdam-V	0	batfra_37
+37	38	District Amsterdam-VI	0	batfra_38
+38	39	District Amsterdam-VII	0	batfra_39
+39	40	District Amsterdam-VIII	0	batfra_40
+40	41	District Amsterdam-IX	0	batfra_41
+41	42	District Amsterdam-X	0	batfra_42
+42	43	District Amsterdam-XI	0	batfra_43
+43	44	District Amsterdam-XII	0	batfra_44
+44	45	District Amsterdam-XIII	0	batfra_45
+45	46	District Soestdijk	0	batfra_46
+46	47	District Zeist	0	batfra_47
+47	48	District Onderdendam	0	batfra_48
+48	49	District Harlingen	0	batfra_49
+49	50	District Leeuwarderadeel	0	batfra_50
+50	51	District Leeuwarden	0	batfra_51
+51	52	District Dokkum	0	batfra_52
+52	53	District Brielle	0	batfra_53
+53	54	District Middelburg-A	0	batfra_54
+54	55	District Goor	0	batfra_55
+55	56	District Middelburg-B	0	batfra_56
+56	57	District Zuidhorn	0	batfra_57
+57	58	District Tilburg	0	batfra_58
+58	59	District Drachten	0	batfra_59
+59	60	District Kampen	0	batfra_60
+60	61	District Kortgene	0	batfra_61
+61	62	District Doesburg	0	batfra_62
+62	63	District Elst	0	batfra_63
+63	64	District Groningen-I	0	batfra_64
+64	65	District Groningen-II	0	batfra_65
+65	66	District Delft	0	batfra_66
+66	67	District Zwolle	0	batfra_67
+67	68	District Berlikum	0	batfra_68
+68	69	District Polanen	0	batfra_69
+69	70	District Gouda	0	batfra_70
+70	71	District Enkhuizen	0	batfra_71
+71	72	District Rotterdam-I	0	batfra_72
+72	73	District Almelo	0	batfra_73
+73	74	District Appingedam	0	batfra_74
+74	75	District Lochem	0	batfra_75
+75	76	District Sliedrecht-Geertruidenberg	0	batfra_76
+76	77	District Oirschot	0	batfra_77
+77	78	District Zaltbommel	0	batfra_78
+78	79	District Breda	0	batfra_79
+79	80	District Medemblik	0	batfra_80
+80	81	District Dordrecht	0	batfra_81
+81	82	District Haarlem-I	0	batfra_82
+82	83	District Haarlem-II	0	batfra_83
+83	84	District Montfoort	0	batfra_84
+84	85	District Sneek	0	batfra_85
+85	86	District Schoonhoven	0	batfra_86
+86	87	District Harderwijk	0	batfra_87
+87	88	District Gorinchem	0	batfra_88
+88	89	District Deventer	0	batfra_89
+89	90	District Bredevoort	0	batfra_90
+90	91	District Vries	0	batfra_91
+91	92	District Den Haag-I	0	batfra_92
+92	93	District Den Haag-II	0	batfra_93
+93	94	District Den Haag-III	0	batfra_94
+94	95	District Amsterdam XIV	0	batfra_95
+95	96	District Den Bosch	0	batfra_96
+96	97	District Weesp	0	batfra_97
+97	98	District Zierikzee	0	batfra_98
+98	99	District Steenbergen-Bergen op Zoom	0	batfra_99
+99	100	District Tilburg	0	batfra_100
+100	101	District Doetinchem	0	batfra_101
+101	102	District Grave	0	batfra_102
+102	103	District Rotterdam-II	0	batfra_103
+103	104	District Rotterdam-III	0	batfra_104
+104	105	District Nijmegen	0	batfra_105
+105	106	District Ommen	0	batfra_106
+106	107	District Arnhem	0	batfra_107
+107	108	District Hengelo	0	batfra_108
+108	109	District Barneveld	0	batfra_109
+109	110	District Oisterwijk	0	batfra_110
+110	111	District Etten	0	batfra_111
+111	112	District Den Helder	0	batfra_112
+112	113	District Hoorn	0	batfra_113
+113	114	District Buren-Culemborg	0	batfra_114
+114	115	District Nieuwersluis	0	batfra_115
+115	116	District Oosterwierum	0	batfra_116
+116	117	District Beverwijk	0	batfra_117
+117	118	District Veghel	0	batfra_118
+118	119	District Helmond	0	batfra_119
+119	120	District Utrecht-I	0	batfra_120
+120	121	District Utrecht-II	0	batfra_121
+121	122	District Leiden-I	0	batfra_122
+122	123	District Leiden-II	0	batfra_123
+123	124	District Rotterdam-IV	0	batfra_124
+124	125	District Raalte	0	batfra_125
+125	126	District Wolvega	0	batfra_126
+126	127	District Vlaardingen	0	batfra_127
+127	128	District Leende	0	batfra_128
+128	129	District Eindhoven	0	batfra_129
+129	130	District Nieuwerkerk	0	batfra_130
+130	131	District Zutphen	0	batfra_131
+131	132	District Middelharnis	0	batfra_132
+132	133	District Amersfoort	0	batfra_133
+133	134	District Zweelo	0	batfra_134
+134	135	District Hattem	0	batfra_135
+135	136	District Amstelveen	0	batfra_136
+136	137	District Ridderkerk	0	batfra_137
+137	138	District Winschoten	0	batfra_138
+138	139	District Alkmaar	0	batfra_139
+139	140	District West-Zaandam	0	batfra_140
+140	141	District Meppel	0	batfra_141
+141	142	District Oldenzaal	0	batfra_142
+142	143	District Geertruidenberg	0	batfra_143
+143	144	District Oost-Zaandam	0	batfra_144
+144	145	District Noordwijk	0	batfra_145
+145	146	District Tiel	0	batfra_146
+146	147	District Druten	0	batfra_147
+147	148	District Veendam	0	batfra_148
+148	149	District Assen	0	batfra_149
+149	150	District Bodegraven	0	batfra_150
+150	151	District Schiedam	0	batfra_151
+151	152	District Wateringen	0	batfra_152
+152	153	District Heusden	0	batfra_153
+153	154	District Strijen	0	batfra_154
+154	155	District Leidschendam	0	batfra_155
+155	156	District Hazerswoude	0	batfra_156
+156	157	District Scheemda-Veendam	0	batfra_157
+157	158	District Purmerend	0	batfra_158
+158	159	District Vollenhove	0	batfra_159
+159	160	District Oss	0	batfra_160
+160	161	District Bergen op Zoom	0	batfra_161
+161	162	District Groenlo	0	batfra_162
+162	163	District Hunsingo	0	batfra_163
+163	164	District Fivelgo	0	batfra_164
+164	165	Stad Groningen	0	batfra_165
+165	166	District Westerkwartier	0	batfra_166
+166	167	Baarderadeel	0	batfra_167
+167	168	Tietjerksteradeel	0	batfra_168
+168	169	Opsterland	0	batfra_169
+169	170	Baarderadeel	0	batfra_170
+170	171	Smallingerland	0	batfra_171
+171	172	Menaldumadeel	0	batfra_172
+172	174	Barradeel	0	batfra_174
+173	175	Leeuwarderadeel	0	batfra_175
+174	176	Oostdongeradeel	0	batfra_176
+175	177	Idaarderadeel	0	batfra_177
+176	178	Franekeradeel	0	batfra_178
+177	179	Lemsterland	0	batfra_179
+178	180	Schoterland	0	batfra_180
+179	181	Hemelumer Oldeferd	0	batfra_181
+180	182	Hennaarderadeel	0	batfra_182
+181	183	Gaasterland-Sloten	0	batfra_183
+182	184	Ferwerderadeel	0	batfra_184
+183	185	Wymbritseradeel	0	batfra_185
+184	186	Achtkarspelen	0	batfra_186
+185	187	Het Bildt	0	batfra_187
+186	188	Weststellingwerf	0	batfra_188
+187	189	Haskerland	0	batfra_189
+188	190	Kollumerland	0	batfra_190
+189	191	Westdongeradeel	0	batfra_191
+190	192	Wonseradeel	0	batfra_192
+191	193	Rauwerderhem	0	batfra_193
+192	194	District Haarlem	0	batfra_194
+193	195	Aengwirden	0	batfra_195
+194	196	Utingeradeel	0	batfra_196
+195	197	District Middelburg	0	batfra_197
+196	198	District Amsterdam-XIV	0	batfra_198
+197	199	District Goes	0	batfra_199
+198	200	District Sliedrecht	0	batfra_200
+199	201	Oost-Friesland	0	batfra_201
+200	202	District Middelburg-II/Vlissingen	0	batfra_202
+201	203	Arrondissement Amersfoort	0	batfra_203
+202	204	District Scheemda	0	batfra_204
+203	205	District Den Haag-III/Leidschendam	0	batfra_205
+204	206	Stad Almelo	0	batfra_206
+205	207	Landgericht Almelo	0	batfra_207
+206	208	Blokzijl	0	batfra_208
+207	209	Borne	0	batfra_209
+208	210	Colmschate	0	batfra_210
+209	211	Dalfsen	0	batfra_211
+210	212	Stad Delden	0	batfra_212
+211	213	Landgericht Delden	0	batfra_213
+212	214	Deventer	0	batfra_214
+213	215	Stad Diepenheim	0	batfra_215
+214	216	Stad Enschede	0	batfra_216
+215	217	Landgericht Enschede	0	batfra_217
+216	218	Stad Genemuiden	0	batfra_218
+217	219	Schoutambt Genemuiden	0	batfra_219
+218	220	Giethoorn	0	batfra_220
+219	221	Goor	0	batfra_221
+220	222	Grafhorst	0	batfra_222
+221	223	Gramsbergen	0	batfra_223
+222	224	Haaksbergen	0	batfra_224
+223	225	Stad Hardenberg	0	batfra_225
+224	226	Schoutambt Hardenberg	0	batfra_226
+225	227	Stad Hasselt	0	batfra_227
+226	228	Schoutambt Nieuwesluis en Hasselerkerspel	0	batfra_228
+227	229	Heino	0	batfra_229
+228	230	Hellendoorn	0	batfra_230
+229	231	Holten en Bathmen	0	batfra_231
+230	232	Kampen	0	batfra_232
+231	233	Kamperveen	0	batfra_233
+232	234	Landgericht Kedingen	0	batfra_234
+233	235	Markelo	0	batfra_235
+234	236	Kuinre en Blankenham	0	batfra_236
+235	237	Stad Oldenzaal	0	batfra_237
+236	238	Landgericht Oldenzaal	0	batfra_238
+237	239	Olst	0	batfra_239
+238	240	Stad Ommen	0	batfra_240
+239	241	Schoutambt Ommen en Den Ham	0	batfra_241
+240	242	Stad Ootmarsum	0	batfra_242
+241	243	Raalte	0	batfra_243
+242	244	Rijssen	0	batfra_244
+243	245	Staphorst, Rouveen en IJhorst	0	batfra_245
+244	246	Stad Steenwijk	0	batfra_246
+245	247	Schoutambt Steenwijk en Steenwijkerkerspelen	0	batfra_247
+246	248	Stad Vollenhove	0	batfra_248
+247	249	Schoutambt Vollenhove	0	batfra_249
+248	250	Vriezenveen	0	batfra_250
+249	251	Wanneperveen en Dinxterveen	0	batfra_251
+250	252	Wijhe	0	batfra_252
+251	253	IJsselham, Oldemarkt en Paasloo	0	batfra_253
+252	254	IJsselmuiden	0	batfra_254
+253	255	Zalk en Veecaten	0	batfra_255
+254	256	Zwartsluis	0	batfra_256
+255	257	Stad Zwolle	0	batfra_257
+256	258	Schoutambt Zwolle	0	batfra_258
+257	259	Landgericht Diepenheim	0	batfra_259
+258	260	Landgericht Ootmarsum	0	batfra_260
+259	261	Wilsum	0	batfra_261
+260	262	Arnhem	0	batfra_262
+261	263	Wageningen	0	batfra_263
+262	264	Harderwijk	0	batfra_264
+263	265	Elburg	0	batfra_265
+264	266	Hattem	0	batfra_266
+265	267	Ede	0	batfra_267
+266	268	Barneveld	0	batfra_268
+267	269	Nijkerk	0	batfra_269
+268	270	Putten	0	batfra_270
+269	271	Ermelo	0	batfra_271
+270	272	Doornspijk	0	batfra_272
+271	273	Oldebroek	0	batfra_273
+272	274	Heerde	0	batfra_274
+273	275	Epe	0	batfra_275
+274	276	Nijbroek	0	batfra_276
+275	277	Apeldoorn	0	batfra_277
+276	278	Voorst	0	batfra_278
+277	279	Brummen	0	batfra_279
+278	280	Rheden	0	batfra_280
+279	281	Renkum	0	batfra_281
+280	282	Scherpenzeel	0	batfra_282
+281	283	Hoevelaken	0	batfra_283
+282	284	Rosendaal (Geld.)	0	batfra_284
+283	285	Doorwerth	0	batfra_285
+284	286	Nijmegen	0	batfra_286
+285	287	Rijk van Nijmegen	0	batfra_287
+286	288	Ambt van Nederbetuwe	0	batfra_288
+287	289	Ambt van Maas en Waal	0	batfra_289
+288	290	Ambt van Tielerwaard (met Beesd en Rhenoy)	0	batfra_290
+289	291	Ambt van Bommelerwaard	0	batfra_291
+290	292	Tiel	0	batfra_292
+291	293	Zaltbommel	0	batfra_293
+292	294	Ambt van Overbetuwe	0	batfra_294
+293	295	Doesburg	0	batfra_295
+294	296	Doetinchem	0	batfra_296
+295	297	Lochem	0	batfra_297
+296	298	Groenlo	0	batfra_298
+297	299	Zutphen	0	batfra_299
+298	300	Eerste Departement - Beek	0	batfra_300
+299	301	Eerste Departement - Didam	0	batfra_301
+300	302	Eerste Departement - Angerlo	0	batfra_302
+301	303	Eerste Departement - Bahr en Latum	0	batfra_303
+302	304	Eerste Departement - Westervoort	0	batfra_304
+303	305	Eerste Departement - Drempt	0	batfra_305
+304	306	Eerste Departement - Hoog- en Laag-Keppel	0	batfra_306
+305	307	Tweede Departement - Steenderen	0	batfra_307
+306	308	Tweede Departement - Bronkhorst	0	batfra_308
+307	309	Tweede Departement - Hummelo	0	batfra_309
+308	310	Tweede Departement - Vorden	0	batfra_310
+309	311	Tweede Departement - Warnsveld en Wichmond	0	batfra_311
+310	312	Tweede Departement - Almen	0	batfra_312
+311	313	Tweede Departement - Gorssel	0	batfra_313
+312	314	Derde Departement - Zeddam	0	batfra_314
+313	315	Derde Departement - 's-Heerenberg	0	batfra_315
+314	316	Derde Departement - Stokkum	0	batfra_316
+315	317	Derde Departement - Netterden	0	batfra_317
+316	318	Derde Departement - Etten	0	batfra_318
+317	319	Vierde Departement - Terborg	0	batfra_319
+318	320	Vierde Departement - Varsseveld	0	batfra_320
+319	321	Vierde Departement - Silvolde	0	batfra_321
+320	322	Vierde Departement - Ligtenberg	0	batfra_322
+321	323	Vierde Departement - Lichtenvoorde	0	batfra_323
+322	324	Vijfde Departement - Richterambt Doetinchem	0	batfra_324
+323	325	Vijfde Departement - Zelhem	0	batfra_325
+324	326	Vijfde Departement - Roderlo	0	batfra_326
+325	327	Vijfde Departement - Hengelo	0	batfra_327
+326	328	Zesde Departement - Bredevoort	0	batfra_328
+327	329	Zesde Departement - Aalten	0	batfra_329
+328	330	Zesde Departement - Winterswijk	0	batfra_330
+329	331	Zesde Departement - Dinxperlo	0	batfra_331
+330	332	Zevende Departement - Borculo	0	batfra_332
+331	333	Zevende Departement - Beltrum	0	batfra_333
+332	334	Zevende Departement - Eibergen	0	batfra_334
+333	335	Zevende Departement - Neede	0	batfra_335
+334	336	Zevende Departement - Rekken	0	batfra_336
+335	337	Achtste Departement - Scholtambt Lochem	0	batfra_337
+336	338	Achtste Departement - Laren	0	batfra_338
+337	339	Achtste Departement - Verwolde	0	batfra_339
+338	340	Achtste Departement - Geesteren	0	batfra_340
+339	341	Achtste Departement - Gelselaar	0	batfra_341
+340	342	Achtste Departement - Dorth	0	batfra_342
+341	343	Kwartier van Nijmegen	0	batfra_343
+342	344	Kwartier van Zutphen	0	batfra_344
+343	345	Kwartier van de Veluwe	0	batfra_345
+344	346	Kwartier Arnhem	0	batfra_346
+345	347	Kwartier Zutphen	0	batfra_347
+346	348	Kwartier Nijmegen	0	batfra_348
+347	349	Ring van Gorinchem	0	batfra_349
+348	350	Ring van Tiel	0	batfra_350
+349	351	Ring van Utrecht	0	batfra_351
+350	352	Ring van Amersfoort	0	batfra_352
+351	353	Ring van Arnhem	0	batfra_353
+352	354	Ring van Doesburg	0	batfra_354
+353	355	Ring van Zutphen	0	batfra_355
+354	356	Ring van Tiel	0	batfra_356
+355	357	Middelburg	0	batfra_357
+356	358	Zierikzee	0	batfra_358
+357	359	Goes	0	batfra_359
+358	360	Tholen	0	batfra_360
+359	361	Vlissingen	0	batfra_361
+360	362	Veere	0	batfra_362
+361	363	Walcheren en Sint Joosland	0	batfra_363
+362	364	Schouwen-Duiveland en Sommelsdijk	0	batfra_364
+363	365	Zuid-Beveland	0	batfra_365
+364	366	Tholen en Sint Philipsland	0	batfra_366
+365	367	Noord-Beveland en Wolphaartsdijk	0	batfra_367
+366	368	Kwartier Maasland	0	batfra_368
+367	369	Kwartier Peelland	0	batfra_369
+368	370	Kwartier Kempenland	0	batfra_370
+369	371	Stad en Land van Breda	0	batfra_371
+370	372	Grave en het Land van Cuijk	0	batfra_372
+371	373	Steden en Landen van Bergen op Zoom en Steenbergen	0	batfra_373
+372	374	's-Hertogenbosch	0	batfra_374
+373	375	Kwartier Oisterwijk	0	batfra_375
+374	376	Kwartier I Leiden	0	batfra_376
+375	377	Kwartier II Rotterdam	0	batfra_377
+376	378	Kwartier III Dordrecht	0	batfra_378
+377	379	Kwartier IV Goeree en Overflakkee	0	batfra_379
+378	380	Kwartier II Hoorn	0	batfra_380
+379	381	Kwartier van Breda	0	batfra_381
+380	382	Kwartier van 's-Hertogenbosch	0	batfra_382
+381	383	Kwartier van Eindhoven	0	batfra_383
+382	384	Arrondissement Middelburg	0	batfra_384
+383	385	Arrondissement Meppel	0	batfra_385
+384	386	Schouwen (eiland)	0	batfra_386
+385	387	Noord- en Zuid-Beveland	0	batfra_387
+386	388	Arrondissement Flakkee	0	batfra_388
+387	389	Dantumadeel	0	batfra_389
+388	390	Ooststellingwerf	0	batfra_390
+389	391	Doniawerstal	0	batfra_391
+390	392	Stavoren	0	batfra_392
+391	393	Groningen	0	batfra_393
+392	394	Bolsward	0	batfra_394
+393	395	Dokkum	0	batfra_395
+394	396	IJlst	0	batfra_396
+395	397	Leeuwarden	0	batfra_397
+396	398	Franeker	0	batfra_398
+397	399	Harlingen	0	batfra_399
+398	400	Workum	0	batfra_400
+399	401	Sneek	0	batfra_401
+400	402	Zuidlaren	0	batfra_402
+401	403	Vries	0	batfra_403
+402	404	Peize	0	batfra_404
+403	405	Assen	0	batfra_405
+404	406	Gasselternijveen	0	batfra_406
+405	407	Zweelo	0	batfra_407
+406	408	Beilen	0	batfra_408
+407	409	Dwingeloo	0	batfra_409
+408	410	Oosterhesselen	0	batfra_410
+409	411	Eelde	0	batfra_411
+410	412	Anloo	0	batfra_412
+411	413	Ruinen	0	batfra_413
+412	414	Wapserveen	0	batfra_414
+413	415	Vledder	0	batfra_415
+414	416	Pesse, Echten en Ansen	0	batfra_416
+415	417	Roswinkel	0	batfra_417
+416	418	Schoonebeek	0	batfra_418
+417	419	Nijeveen	0	batfra_419
+418	420	Zuidwolde	0	batfra_420
+419	421	Rolde	0	batfra_421
+420	422	Emmen	0	batfra_422
+421	423	Hoogeveen	0	batfra_423
+422	424	Sleen	0	batfra_424
+423	425	Diever	0	batfra_425
+424	426	Kolderveen	0	batfra_426
+425	427	Roden	0	batfra_427
+426	428	Borger	0	batfra_428
+427	429	Havelte	0	batfra_429
+428	430	Anloo	0	batfra_430
+429	431	Meppel	0	batfra_431
+430	432	Gasselte	0	batfra_432
+431	433	Gieten	0	batfra_433
+432	434	Norg	0	batfra_434
+433	435	Ruinerwold	0	batfra_435
+434	436	Roden	0	batfra_436
+435	437	Dalen	0	batfra_437
+436	438	Coevorden	0	batfra_438
+437	439	Odoorn	0	batfra_439
+438	440	De Wijk	0	batfra_440
+439	441	Smilde	0	batfra_441
+440	442	Koekange	0	batfra_442
+441	443	Westerbork	0	batfra_443
+442	444	Hindeloopen	0	batfra_444
+443	445	Heerenveen	0	batfra_445
+444	446	Gouda	0	batfra_446
+445	447	Schiedam	0	batfra_447
+446	448	Monnickendam	0	batfra_448
+447	449	Schoonhoven	0	batfra_449
+448	450	Rotterdam	0	batfra_450
+449	451	Alkmaar	0	batfra_451
+450	452	Enkhuizen	0	batfra_452
+451	453	Purmerend	0	batfra_453
+452	454	Delft	0	batfra_454
+453	455	Hoorn	0	batfra_455
+454	456	Banne Westzaan	0	batfra_456
+455	457	Banne Oostzaan	0	batfra_457
+456	458	Wormerveer	0	batfra_458
+457	459	Gorinchem	0	batfra_459
+458	460	Amsterdam	0	batfra_460
+459	461	Edam	0	batfra_461
+460	462	Medemblik	0	batfra_462
+461	463	Dordrecht	0	batfra_463
+462	464	's-Gravenhage	0	batfra_464
+463	465	Vlaardingen	0	batfra_465
+464	466	Den Briel	0	batfra_466
+465	467	Leimuiden	0	batfra_467
+466	468	Haarlem	0	batfra_468
+467	469	Naarden en Gooiland	0	batfra_469
+468	470	Maassluis	0	batfra_470
+469	471	Oostzaan	0	batfra_471
+470	472	Heusden	0	batfra_472
+471	473	Rijnland	0	batfra_473
+472	474	Dorpen rond Hillegom	0	batfra_474
+473	475	Schermer	0	batfra_475
+474	476	Dorpen rond Castricum	0	batfra_476
+475	477	Dorpen rond Haarlem	0	batfra_477
+476	478	Beemster	0	batfra_478
+477	479	Woudrichem	0	batfra_479
+478	480	Leiden	0	batfra_480
+479	481	Delfshaven	0	batfra_481
+480	482	Texel	0	batfra_482
+481	483	Krimpenerwaard	0	batfra_483
+482	484	Delfland	0	batfra_484
+483	485	Alblasserwaard	0	batfra_485
+484	486	Hoeksewaard	0	batfra_486
+485	487	Leerdam	0	batfra_487
+486	488	Geertruidenberg	0	batfra_488
+487	489	Krimpenerwaard	0	batfra_489
+488	490	Schieland	0	batfra_490
+489	491	Dorpen rond Zevenbergen	0	batfra_491
+490	492	Dorpen rond Raamsdonk	0	batfra_492
+491	493	Hoge en Lage Zwaluwe	0	batfra_493
+492	494	's Grevelduin Kapelle	0	batfra_494
+493	495	Oudewater	0	batfra_495
+494	496	Schagen	0	batfra_496
+495	497	Dorpen rond Bussum	0	batfra_497
+496	498	Overschie	0	batfra_498
+497	499	Dorpen rond Ouder- en Nieuweramstel	0	batfra_499
+498	500	Voorne-Putten	0	batfra_500
+499	501	Terschelling	0	batfra_501
+0	1	Alkmaar	0	negentiende_eeuw_1
+1	2	Almelo	0	negentiende_eeuw_2
+2	3	Amsterdam	0	negentiende_eeuw_3
+3	4	Amersfoort	0	negentiende_eeuw_4
+4	5	Appingedam	0	negentiende_eeuw_5
+5	6	Arnhem	0	negentiende_eeuw_6
+6	7	Assen	0	negentiende_eeuw_7
+7	8	Bergen op Zoom	0	negentiende_eeuw_8
+8	9	Boxmeer	0	negentiende_eeuw_9
+9	10	Breda	0	negentiende_eeuw_10
+10	11	Brielle	0	negentiende_eeuw_11
+11	12	Delft	0	negentiende_eeuw_12
+12	13	's-Hertogenbosch	0	negentiende_eeuw_13
+13	14	's-Gravenhage	0	negentiende_eeuw_14
+14	15	Deventer	0	negentiende_eeuw_15
+15	16	Doetinchem	0	negentiende_eeuw_16
+16	17	Dokkum	0	negentiende_eeuw_17
+17	18	Dordrecht	0	negentiende_eeuw_18
+18	19	Edam	0	negentiende_eeuw_19
+19	20	Eindhoven	0	negentiende_eeuw_20
+20	21	Elst	0	negentiende_eeuw_21
+21	22	Enschede	0	negentiende_eeuw_22
+22	23	Franeker	0	negentiende_eeuw_23
+23	24	Goes	0	negentiende_eeuw_24
+24	25	Gorinchem	0	negentiende_eeuw_25
+25	26	Gouda	0	negentiende_eeuw_26
+26	27	Grave	0	negentiende_eeuw_27
+27	28	Groningen	0	negentiende_eeuw_28
+28	29	Haarlem	0	negentiende_eeuw_29
+29	30	Harderwijk	0	negentiende_eeuw_30
+30	31	Heerenveen	0	negentiende_eeuw_31
+31	32	Heerlen	0	negentiende_eeuw_32
+32	33	Helmond	0	negentiende_eeuw_33
+33	34	Heusden	0	negentiende_eeuw_34
+34	35	Hoogeveen	0	negentiende_eeuw_35
+35	36	Hoorn	0	negentiende_eeuw_36
+36	37	IJsselstein	0	negentiende_eeuw_37
+37	38	Kampen	0	negentiende_eeuw_38
+38	39	Leeuwarden	0	negentiende_eeuw_39
+39	40	Leiden	0	negentiende_eeuw_40
+40	41	Leiderdorp	0	negentiende_eeuw_41
+41	42	Maastricht	0	negentiende_eeuw_42
+42	43	Middelburg	0	negentiende_eeuw_43
+43	44	Nijmegen	0	negentiende_eeuw_44
+44	45	Onderdendam	0	negentiende_eeuw_45
+45	46	Ridderkerk	0	negentiende_eeuw_46
+46	47	Roermond	0	negentiende_eeuw_47
+47	48	Rotterdam	0	negentiende_eeuw_48
+48	49	Ruurlo	0	negentiende_eeuw_49
+49	50	Schiedam	0	negentiende_eeuw_50
+50	51	Sittard	0	negentiende_eeuw_51
+51	52	Sluis	0	negentiende_eeuw_52
+52	53	Sneek	0	negentiende_eeuw_53
+53	54	Steenwijk	0	negentiende_eeuw_54
+54	55	Tiel	0	negentiende_eeuw_55
+55	56	Tilburg	0	negentiende_eeuw_56
+56	57	Utrecht	0	negentiende_eeuw_57
+57	58	Venlo	0	negentiende_eeuw_58
+58	59	Winschoten	0	negentiende_eeuw_59
+59	60	Zaandam	0	negentiende_eeuw_60
+60	61	Zaltbommel	0	negentiende_eeuw_61
+61	62	Zevenbergen	0	negentiende_eeuw_62
+62	63	Zierikzee	0	negentiende_eeuw_63
+63	64	Zuidhorn	0	negentiende_eeuw_64
+64	65	Zutphen	0	negentiende_eeuw_65
+65	66	Zwolle	0	negentiende_eeuw_66
+66	67	Coevorden	0	negentiende_eeuw_67
+67	68	Meppel	0	negentiende_eeuw_68
+68	69	Zweeloo	0	negentiende_eeuw_69
+69	70	Ruinen	0	negentiende_eeuw_70
+70	71	Havelte	0	negentiende_eeuw_71
+71	72	Vries	0	negentiende_eeuw_72
+72	73	Gasselte	0	negentiende_eeuw_73
+73	74	Zuidbroek	0	negentiende_eeuw_74
+74	75	Hoogezand	0	negentiende_eeuw_75
+75	76	Oude Pekela	0	negentiende_eeuw_76
+76	77	Amerongen	0	negentiende_eeuw_77
+77	78	Zeist	0	negentiende_eeuw_78
+78	79	Maarsen	0	negentiende_eeuw_79
+79	80	Abcoude	0	negentiende_eeuw_80
+80	81	Harmelen	0	negentiende_eeuw_81
+81	82	Baarn	0	negentiende_eeuw_82
+82	83	Montfoort	0	negentiende_eeuw_83
+83	84	Rhenen	0	negentiende_eeuw_84
+84	85	Wijk bij Duurstede	0	negentiende_eeuw_85
+85	86	Breukelen	0	negentiende_eeuw_86
+86	87	Delden	0	negentiende_eeuw_87
+87	88	Ommen	0	negentiende_eeuw_88
+88	89	Raalte	0	negentiende_eeuw_89
+89	90	Hasselt	0	negentiende_eeuw_90
+90	91	Dalfsen	0	negentiende_eeuw_91
+91	92	Markelo	0	negentiende_eeuw_92
+92	93	Oldenzaal	0	negentiende_eeuw_93
+93	94	Zwartsluis	0	negentiende_eeuw_94
+94	95	Ravenstein/Oss	0	negentiende_eeuw_95
+95	96	St. Oedenrode	0	negentiende_eeuw_96
+96	97	Oirschot/Boxtel	0	negentiende_eeuw_97
+97	98	Hilvarenbeek	0	negentiende_eeuw_98
+98	99	Gemert/Asten	0	negentiende_eeuw_99
+99	100	Oisterwijk	0	negentiende_eeuw_100
+100	101	Waalwijk	0	negentiende_eeuw_101
+101	102	Woudrichem	0	negentiende_eeuw_102
+102	103	Ginneken	0	negentiende_eeuw_103
+103	104	Oudenbosch	0	negentiende_eeuw_104
+104	105	Roosendaal	0	negentiende_eeuw_105
+105	106	Opper Gelder/Overmaze	0	negentiende_eeuw_106
+106	107	Geertruidenberg	0	negentiende_eeuw_107
+107	108	Oosterhout	0	negentiende_eeuw_108
+108	109	Willemstad	0	negentiende_eeuw_109
+109	110	Axel	0	negentiende_eeuw_110
+110	111	Hulst	0	negentiende_eeuw_111
+111	112	Tholen	0	negentiende_eeuw_112
+112	113	Veere	0	negentiende_eeuw_113
+113	114	Vlissingen	0	negentiende_eeuw_114
+114	115	Alblasserdam	0	negentiende_eeuw_115
+115	116	Alphen	0	negentiende_eeuw_116
+116	117	Beverwijk	0	negentiende_eeuw_117
+117	118	Blokker	0	negentiende_eeuw_118
+118	119	Bodegraven	0	negentiende_eeuw_119
+119	120	Broek in Waterland	0	negentiende_eeuw_120
+120	121	Broek op Langedijk	0	negentiende_eeuw_121
+121	122	De Rijp	0	negentiende_eeuw_122
+122	123	Delfshaven	0	negentiende_eeuw_123
+123	124	Den Helder	0	negentiende_eeuw_124
+124	125	Geervliet	0	negentiende_eeuw_125
+125	126	Haastrecht	0	negentiende_eeuw_126
+126	127	Heiloo	0	negentiende_eeuw_127
+127	128	Hellevoetsluis	0	negentiende_eeuw_128
+128	129	Leidschendam	0	negentiende_eeuw_129
+129	130	Meerkerk	0	negentiende_eeuw_130
+130	131	Naarden	0	negentiende_eeuw_131
+131	132	Noordwijk	0	negentiende_eeuw_132
+132	133	Oegstgeest	0	negentiende_eeuw_133
+133	134	Oud-Beijerland	0	negentiende_eeuw_134
+134	135	Pijnacker	0	negentiende_eeuw_135
+135	136	Schagen	0	negentiende_eeuw_136
+136	137	Schermerhorn	0	negentiende_eeuw_137
+137	138	Sloterdijk	0	negentiende_eeuw_138
+138	139	Sommelsdijk	0	negentiende_eeuw_139
+139	140	Stompwijk	0	negentiende_eeuw_140
+140	141	Strijen	0	negentiende_eeuw_141
+141	142	Enkhuizen	0	negentiende_eeuw_142
+142	143	Maassluis	0	negentiende_eeuw_143
+143	144	Medemblik	0	negentiende_eeuw_144
+144	145	Monnickendam	0	negentiende_eeuw_145
+145	146	Purmerend	0	negentiende_eeuw_146
+146	147	Schoonhoven	0	negentiende_eeuw_147
+147	148	Vlaardingen	0	negentiende_eeuw_148
+148	149	Weesp	0	negentiende_eeuw_149
+149	150	Woerden	0	negentiende_eeuw_150
+150	151	Muiden	0	negentiende_eeuw_151
+151	152	Naaldwijk	0	negentiende_eeuw_152
+152	153	Nieuwer-Amstel	0	negentiende_eeuw_153
+153	154	Middelharnis	0	negentiende_eeuw_154
+154	155	Sliedrecht	0	negentiende_eeuw_155
+155	156	Zoetermeer	0	negentiende_eeuw_156
+156	157	Achtkarspelen	0	negentiende_eeuw_157
+157	159	Ameland	0	negentiende_eeuw_159
+158	160	Baarderadeel	0	negentiende_eeuw_160
+159	161	Barradeel	0	negentiende_eeuw_161
+160	162	Bolsward	0	negentiende_eeuw_162
+161	163	Dantumadeel	0	negentiende_eeuw_163
+162	164	Doniawerstal	0	negentiende_eeuw_164
+163	165	Ferwerderadeel	0	negentiende_eeuw_165
+164	166	Franekeradeel	0	negentiende_eeuw_166
+165	167	Gaasterland	0	negentiende_eeuw_167
+166	168	Harlingen	0	negentiende_eeuw_168
+167	169	Haskerland	0	negentiende_eeuw_169
+168	170	Hemelumer, Oldephert en Noordwolde	0	negentiende_eeuw_170
+169	171	Hennaarderadeel	0	negentiende_eeuw_171
+170	172	Hindelopen	0	negentiende_eeuw_172
+171	173	Idaarderadeel	0	negentiende_eeuw_173
+172	174	Kollumerland en Nieuw Kruisland	0	negentiende_eeuw_174
+173	175	Leeuwarderadeel	0	negentiende_eeuw_175
+174	176	Lemsterland	0	negentiende_eeuw_176
+175	177	Menaldumadeel	0	negentiende_eeuw_177
+176	178	Oostdongeradeel	0	negentiende_eeuw_178
+177	179	Opsterland	0	negentiende_eeuw_179
+178	180	Rauwerdehem	0	negentiende_eeuw_180
+179	181	Schoterland	0	negentiende_eeuw_181
+180	182	Sloten	0	negentiende_eeuw_182
+181	183	Smallingerland	0	negentiende_eeuw_183
+182	184	Stavoren	0	negentiende_eeuw_184
+183	185	Stellingwerf Oosteinde	0	negentiende_eeuw_185
+184	186	Stellingwerf Westeinde	0	negentiende_eeuw_186
+185	187	Tietjerksteradeel	0	negentiende_eeuw_187
+186	188	Utingeradeel	0	negentiende_eeuw_188
+187	189	Westdongeradeel	0	negentiende_eeuw_189
+188	190	Workum	0	negentiende_eeuw_190
+189	191	Wymbritseradeel	0	negentiende_eeuw_191
+190	192	IJlst	0	negentiende_eeuw_192
+191	194	Bergum	0	negentiende_eeuw_194
+192	195	Dronrijp	0	negentiende_eeuw_195
+193	196	Het Bildt	0	negentiende_eeuw_196
+194	197	Schiermonnikoog	0	negentiende_eeuw_197
+195	198	Wonseradeel	0	negentiende_eeuw_198
+196	199	Gronsveld	0	negentiende_eeuw_199
+197	200	Gulpen	0	negentiende_eeuw_200
+198	201	Meerssen	0	negentiende_eeuw_201
+199	202	Valkenburg	0	negentiende_eeuw_202
+200	203	Oirsbeek	0	negentiende_eeuw_203
+201	204	Susteren	0	negentiende_eeuw_204
+202	205	Echt	0	negentiende_eeuw_205
+203	206	Thorn	0	negentiende_eeuw_206
+204	207	Heijthuizen	0	negentiende_eeuw_207
+205	208	Kessel	0	negentiende_eeuw_208
+206	209	Horst	0	negentiende_eeuw_209
+207	210	Bergen (L.)	0	negentiende_eeuw_210
+208	211	Weert	0	negentiende_eeuw_211
+209	212	Beringen	0	negentiende_eeuw_212
+210	213	Borgloon	0	negentiende_eeuw_213
+211	214	Bilzen	0	negentiende_eeuw_214
+212	215	Bree	0	negentiende_eeuw_215
+213	216	Brustem	0	negentiende_eeuw_216
+214	217	Eijsden	0	negentiende_eeuw_217
+215	218	Herk-de-stad	0	negentiende_eeuw_218
+216	219	Koninksem	0	negentiende_eeuw_219
+217	220	Mechelen	0	negentiende_eeuw_220
+218	221	Zonhoven	0	negentiende_eeuw_221
+219	222	Maaseik	0	negentiende_eeuw_222
+220	223	Sint Truiden	0	negentiende_eeuw_223
+221	224	Tongeren	0	negentiende_eeuw_224
+222	225	Culemborg	0	negentiende_eeuw_225
+223	226	Doesburg	0	negentiende_eeuw_226
+224	227	Elburg	0	negentiende_eeuw_227
+225	228	Groenlo	0	negentiende_eeuw_228
+226	229	Hattem	0	negentiende_eeuw_229
+227	230	Lochem	0	negentiende_eeuw_230
+228	231	Nijkerk	0	negentiende_eeuw_231
+229	232	Wageningen	0	negentiende_eeuw_232
+230	233	Apeldoorn/Brummen	0	negentiende_eeuw_233
+231	234	Doesburg (plattelandsdistrict)	0	negentiende_eeuw_234
+232	235	Groenlo (plattelandsdistrict)	0	negentiende_eeuw_235
+233	236	Heerde/Barneveld [Elspeet]	0	negentiende_eeuw_236
+234	237	Nijmegen/Druten [Druten]	0	negentiende_eeuw_237
+235	238	Tiel/Elst	0	negentiende_eeuw_238
+236	239	Zaltbommel (plattelandsdistrict)	0	negentiende_eeuw_239
+237	240	Zutphen (plattelandsdistrict)	0	negentiende_eeuw_240
+238	241	Aalten	0	negentiende_eeuw_241
+239	242	Ede	0	negentiende_eeuw_242
+240	243	Geldermalsen	0	negentiende_eeuw_243
+241	244	Oldebroek	0	negentiende_eeuw_244
+242	245	Putten	0	negentiende_eeuw_245
+243	246	Voorst	0	negentiende_eeuw_246
+244	247	Wychen	0	negentiende_eeuw_247
+245	248	Zevenaar	0	negentiende_eeuw_248
+246	158	Aengwirden	0	negentiende_eeuw_158
+0	1	Middelburg	1	me_1
+1	3	Brigdamme	3	me_3
+2	4	Sommelsdijk	4	me_4
+3	5	Zierikzee	5	me_5
+4	6	St Maartensdijk	6	me_6
+5	7	Delft	0	me_7
+6	8	Arnhem	0	me_8
+7	9	Gouda	0	me_9
+8	10	Amsterdam	0	me_10
+9	11	Gorinchem	0	me_11
+10	12	Dordrecht	0	me_12
+11	13	Schiedam	0	me_13
+12	14	Rotterdam	0	me_14
+13	15	Haarlem	0	me_15
+14	16	Leiden	0	me_16
+0	1	Idaarderadeel	0	divperioden_1
+1	2	Oostdongeradeel	0	divperioden_2
+2	3	Achtkarspelen	0	divperioden_3
+3	4	Dantumadeel	0	divperioden_4
+4	5	Leeuwarderadeel	0	divperioden_5
+5	6	Smallingerland	0	divperioden_6
+6	7	Ferwerderadeel	0	divperioden_7
+7	8	Westdongeradeel	0	divperioden_8
+8	9	Rauwerderhem	0	divperioden_9
+9	10	Tietjerksteradeel	0	divperioden_10
+10	11	Kollumerland	0	divperioden_11
+11	12	Hennaarderadeel	0	divperioden_12
+12	13	Wonseradeel	0	divperioden_13
+13	14	Baarderadeel	0	divperioden_14
+14	15	Franekeradeel	0	divperioden_15
+15	16	Barradeel	0	divperioden_16
+16	17	Wymbritseradeel	0	divperioden_17
+17	18	Het Bildt	0	divperioden_18
+18	19	Menaldumadeel	0	divperioden_19
+19	20	Hemelumer Oldeferd	0	divperioden_20
+20	21	Lemsterland	0	divperioden_21
+21	22	Utingeradeel	0	divperioden_22
+22	23	Haskerland	0	divperioden_23
+23	24	Oost-Stellingwerf	0	divperioden_24
+24	25	West-Stellingwerf	0	divperioden_25
+25	26	Doniawerstal	0	divperioden_26
+26	27	Engwirden	0	divperioden_27
+27	28	Schoterland	0	divperioden_28
+28	29	Opsterland	0	divperioden_29
+29	30	Gaasterland	0	divperioden_30
+30	31	Leeuwarden	0	divperioden_31
+31	32	Bolsward	0	divperioden_32
+32	33	Franeker	0	divperioden_33
+33	34	Sneek	0	divperioden_34
+34	35	Dokkum	0	divperioden_35
+35	36	Harlingen	0	divperioden_36
+36	37	Stavoren	0	divperioden_37
+37	38	Sloten	0	divperioden_38
+38	39	Workum	0	divperioden_39
+39	40	IJlst	0	divperioden_40
+40	41	Hindeloopen	0	divperioden_41
+41	42	Ridderschap van Holland	0	divperioden_42
+0	1	Ridderschap van Holland	1	republiek_1
+1	2	Dordrecht	2	republiek_2
+2	3	Haarlem	3	republiek_3
+3	4	Delft	4	republiek_4
+4	5	Leiden	5	republiek_5
+5	6	Amsterdam	6	republiek_6
+6	7	Gouda	7	republiek_7
+7	8	Rotterdam	8	republiek_8
+8	9	Gorinchem	9	republiek_9
+9	10	Schiedam	10	republiek_10
+10	11	Schoonhoven	11	republiek_11
+11	12	Den Briel	12	republiek_12
+12	13	Alkmaar	13	republiek_13
+13	14	Hoorn	14	republiek_14
+14	15	Enkhuizen	15	republiek_15
+15	16	Edam	16	republiek_16
+16	17	Monnickendam	17	republiek_17
+17	18	Medemblik	18	republiek_18
+18	19	Purmerend	19	republiek_19
+19	20	Middelburg	20	republiek_20
+20	21	Zierikzee	21	republiek_21
+21	22	Goes	22	republiek_22
+22	23	Tholen	23	republiek_23
+23	24	Vlissingen	24	republiek_24
+24	25	Veere	25	republiek_25
+25	26	Leeuwarden	0	republiek_26
+26	27	Eerste Edele	0	republiek_27
+27	28	Deventer	0	republiek_28
+28	29	Kampen	0	republiek_29
+29	30	Zwolle	0	republiek_30
+30	31	Ridderschap van Overijssel	0	republiek_31

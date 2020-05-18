@@ -1,6 +1,3 @@
-from flask import g
-from models.error import InvalidUsage, PermissionError
-
 """--------------- Parse Request Headers and Parameters ------------------"""
 
 def get_params(request, anon_allowed=True):
@@ -34,14 +31,16 @@ def interpret_header(headers, params):
 """--------------- Parse Request Parameters ------------------"""
 
 def parse_search_parameters(request, params):
-    """do we want this in the filter"""
+    """do we want this in the filter and we make a default allowed """
     params['filter'] = {}
     if request.args:
         reqob = request.args
     elif request.form:
         reqob = request.form
-    print(reqob)
-    if reqob.get("field_name"):
-        params["filter"]["field_name"] = reqob.get("field_name")
-    if reqob.get("search_term"):
-        params["filter"]["search_term"] = reqob.get("search_term")
+    else:
+        reqob = {}
+    #print(reqob, list(reqob.keys()))
+    for key in reqob.keys():
+        params["filter"][key] = reqob.get(key)
+    #print("!", params)
+    #return params

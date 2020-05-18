@@ -1,0 +1,29 @@
+	idregio	old_idregio	regio	volgnummer
+0	1	me_1	Veere en Vlissingen	1
+1	2	me_2	Souburg en Sommelsdijk	2
+2	3	me_3	Brigdamme en Souburg	3
+3	4	me_4	Reimerswaal, Goes en Tholen	4
+4	5	me_5	Middelburg en Zierikzee	5
+5	6	me_6	Overkwartier	6
+6	7	me_7	Kwartier Nijmegen	7
+7	8	me_8	Kwartier Zutphen	8
+8	9	me_9	Kwartier Veluwe	9
+9	10	me_10	Arnhem	10
+10	11	me_11	bannerheren	11
+11	12	me_12	Nijmegen	12
+12	13	me_13	Kwartier Roermond	13
+13	14	me_14	Kwartier Arnhem	14
+14	15	me_15	Ommelanden	15
+15	16	me_16	Roermond	16
+16	17	me_17	Zutphen	0
+17	18	me_18	Kwartier Harderwijk	0
+0	10	divperioden_10	Oostergo	
+1	11	divperioden_11	Westergo	
+2	12	divperioden_12	Zevenwolden	
+3	13	divperioden_13	Steden	
+0	1	republiek_1	Oostergo	0
+1	2	republiek_2	Westergo	0
+2	3	republiek_3	Zevenwolden	0
+3	4	republiek_4	Salland	0
+4	5	republiek_5	Twente	0
+5	6	republiek_6	Vollenhove	0
